@@ -16,7 +16,6 @@
 
 <h3 align="center">🛠 Languages and Tools:</h3>
 
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -66,24 +65,33 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin" />
   </a>
   <img width="12" />
-  
   <a href="https://instagram.com/toxicbishop_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram" />
   </a>
   <img width="12" />
-  
   <a href="mailto:pranavarun19@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail" />
   </a>
   <img width="12" />
-  
   <a href="https://discordapp.com/users/701732138269016064" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord" />
   </a>
 </div>
 
+<br />
+
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=toxicbishop&theme=dark&date_format=j%20M%5B%20Y%5D" height="180" alt="github streak"/>
+  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toxicbishop&theme=dark" height="180" alt="github stats"/>
   <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=dark" height="180" alt="top languages"/>
+</div>
+
+<br />
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toxicbishop/toxicbishop/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toxicbishop/toxicbishop/output/pacman-contribution-graph.svg">
