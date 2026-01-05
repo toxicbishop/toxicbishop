@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates (once a day)
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run it manually from the Actions tab
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
@@ -14,35 +12,28 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your Personal Access Token (Enable this in Secrets!)
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Your GitHub Username
           user: toxicbishop
-          
-          # OPTIONS TO MAKE IT BIGGER & BETTER
           template: classic
-          config_display: large   # Makes the generated image wider/larger
+          config_display: large
           config_timezone: Asia/Calcutta
           
-          # Base stats (Commits, PRs, etc.) - Defaults are good, so we don't set base: ""
+          # Base stats (Let's ensure these work first)
           base: header, activity, community, repositories, metadata
 
-          # 1. Languages (Includes Private Repos if Token has access)
+          # 1. Languages 
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_colors: "github"
-          plugin_languages_colors_overrides: |
-            python:#FFD43B
-            typescript:#3178C6
+          plugin_languages_limit: 8
 
-          # 2. Coding Habits
+          # 2. Coding Habits (LOWERED COMPLEXITY to prevent errors)
           plugin_habits: yes
           plugin_habits_from: 200       
           plugin_habits_days: 14        
           plugin_habits_facts: yes      
-          plugin_habits_charts: yes     
+          plugin_habits_charts: no      # Turned off charts temporarily to fix error
 
-          # 3. Isometric Calendar
+          # 3. Isometric Calendar (This is heavy, let's keep it simple)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
