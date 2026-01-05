@@ -81,9 +81,6 @@
 <br />
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=toxicbishop&theme=dark&date_format=j%20M%5B%20Y%5D" height="180" alt="github streak"/>
-  </a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toxicbishop&theme=dark" height="180" alt="github stats"/>
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=dark" height="180" alt="top languages"/>
