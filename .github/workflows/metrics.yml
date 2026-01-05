@@ -18,22 +18,22 @@ jobs:
           config_display: large
           config_timezone: Asia/Calcutta
           
-          # Base stats (Let's ensure these work first)
+          # Base options
           base: header, activity, community, repositories, metadata
-
-          # 1. Languages 
+          
+          # 1. Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_colors: "github"
           plugin_languages_limit: 8
 
-          # 2. Coding Habits (LOWERED COMPLEXITY to prevent errors)
+          # 2. Coding Habits (SIMPLIFIED TO FIX ERROR)
           plugin_habits: yes
-          plugin_habits_from: 200       
-          plugin_habits_days: 14        
-          plugin_habits_facts: yes      
-          plugin_habits_charts: no      # Turned off charts temporarily to fix error
+          plugin_habits_from: 200       # Analyzes last 200 events
+          plugin_habits_days: 14        # Last 14 days
+          plugin_habits_facts: yes      # Shows "Most productive..."
+          plugin_habits_charts: no      # DISABLED CHARTS (This is usually what breaks it)
 
-          # 3. Isometric Calendar (This is heavy, let's keep it simple)
+          # 3. Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
