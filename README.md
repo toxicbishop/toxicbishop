@@ -11,8 +11,7 @@
 - 🌱 &nbsp; Enthusiast in **Cyber Security** and **Artificial Intelligence**.
 - ✍️ &nbsp; Hobbies: Watching Anime and trying out latest design trends.
 - ☕ &nbsp; *I believe, a perfect cup of coffee can be the ultimate solution for any stress.*
-- 📫 &nbsp; Reach me at **pranavarun19@gmail.com**
-
+- 📫 &nbsp; Reach me at [pranavarun19@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=pranavarun19@gmail.com)
 ---
 
 <h3 align="center">🛠 Languages and Tools:</h3>
@@ -70,7 +69,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram" />
   </a>
   <img width="12" />
-  <a href="mailto:pranavarun19@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pranavarun19@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail" />
   </a>
   <img width="12" />
