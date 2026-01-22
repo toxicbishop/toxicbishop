@@ -19,21 +19,21 @@ jobs:
           config_timezone: Asia/Calcutta
           
           # Base options
-          base: header, activity, community, repositories, metadata
+          base: header, repositories, metadata
           
-          # 1. Languages
+          # 1. Languages (The Circular Graph)
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_colors: "github"
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
           plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          
+          # 2. Lines (Contribution History - The Clean Graph)
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: repositories
 
-          # 2. Coding Habits (SIMPLIFIED TO FIX ERROR)
-          plugin_habits: yes
-          plugin_habits_from: 200       # Analyzes last 200 events
-          plugin_habits_days: 14        # Last 14 days
-          plugin_habits_facts: yes      # Shows "Most productive..."
-          plugin_habits_charts: no      # DISABLED CHARTS (This is usually what breaks it)
-
-          # 3. Isometric Calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # 3. Clean Setup
+          config_display: large
+          config_padding: 0, 8 + 11%
