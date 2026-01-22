@@ -42,5 +42,4 @@ jobs:
           plugin_habits_charts: no # Text only
 
           # 4. Clean Setup
-          config_display: large
           config_padding: 0, 8 + 11%
