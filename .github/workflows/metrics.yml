@@ -21,13 +21,7 @@ jobs:
           # Base options (Clean: removed repositories, community)
           base: header, metadata
           
-          # 1. Languages (The Donut Graph)
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_analysis_timeout: 15
-          
+
           # 2. Lines (Contribution History - Clean)
           plugin_lines: yes
           plugin_lines_history_limit: 1
