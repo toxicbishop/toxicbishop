@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pranav+Arun;A+Student+from+Bengaluru;I+build+things+for+the+web;Cyber+Security+Enthusiast" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi 👋, I'm Pranav Arun</h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
