@@ -87,10 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=toxicbishop&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats" width="400" />
   <br />
   <br />
-  <!-- Top Languages (Donut/Pie Chart) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicbishop&layout=donut&theme=dark&hide_border=false&border_color=30363d" alt="languages" width="400" />
-  <br />
-  <br />
+
   <!-- Contributions History (Lines & Habits) -->
   <img src="./github-metrics.svg" alt="metrics" width="100%" />
 </div>
