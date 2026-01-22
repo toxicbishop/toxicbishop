@@ -1,6 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Pranav Arun</h1>
-<h3 align="center">A Student from Bengaluru</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Pranav+Arun;A+Student+from+Bengaluru;Front-end+Web+Developer;Cyber+Security+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=toxicbishop&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="trophies" width="100%" />
+</div>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -87,11 +92,45 @@
   <img src="https://github-readme-stats.vercel.app/api?username=toxicbishop&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats" width="400" />
   <br />
   <br />
-
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toxicbishop&theme=dark&hide_border=true" alt="streak stats" width="400" />
+  <br />
+  <br />
   <!-- Contributions History (Lines & Habits) -->
   <img src="./github-metrics.svg" alt="metrics" width="100%" />
 </div>
 
+<br />
+
+<h3 align="center">🏆 Top Projects</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/toxicbishop/Slot-Machine-V3">
+            <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=Slot+Machine+V3" width="100%" alt="Slot Machine V3"><br>
+            <b>🎰 Slot Machine V3</b>
+        </a>
+        <br>Python-based GUI Game with save states.
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/toxicbishop/Student-GUI">
+            <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=Student+GUI" width="100%" alt="Student GUI"><br>
+            <b>👨‍🎓 Student GUI</b>
+        </a>
+        <br>Student Management System with SQL.
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/toxicbishop/Music-with-python">
+            <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=Music+With+Python" width="100%" alt="Music With Python"><br>
+            <b>🎵 Music w/ Python</b>
+        </a>
+        <br>Interactive Music Application.
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
@@ -104,4 +143,5 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/toxicbishop/toxicbishop/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </div>
+
 
