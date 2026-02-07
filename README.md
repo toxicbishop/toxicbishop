@@ -71,19 +71,19 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/pranav-arun-4b927b290/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin" />
+    <img src="./Logos/linkedin.svg" width="50" height="40" alt="linkedin" />
   </a>
   <img width="12" alt="" />
   <a href="https://instagram.com/toxicbishop_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram" />
+    <img src="./Logos/instagram.svg" width="50" height="40" alt="instagram" />
   </a>
   <img width="12" alt="" />
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pranavarun19@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail" />
+    <img src="./Logos/gmail.svg" width="50" height="40" alt="gmail" />
   </a>
   <img width="12" alt="" />
   <a href="https://discordapp.com/users/701732138269016064" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord" />
+    <img src="./Logos/discord.svg" width="50" height="40" alt="discord" />
   </a>
 </div>
 
