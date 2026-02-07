@@ -18,9 +18,9 @@
 <h3 align="center">🛠 Languages and Tools:</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="./Logos/html-5.svg" height="60" alt="html5 logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="./Logos/css-3.svg" height="60" alt="css logo"  />
   <img width="12" alt="" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" alt="" />
