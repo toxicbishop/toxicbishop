@@ -22,41 +22,47 @@
   <img width="12" alt="" />
   <img src="./Logos/css-3.svg" height="60" alt="css logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="./Logos/javascript.svg" height="60" alt="javascript logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
+  <img src="./Logos/typescript.svg" height="60" alt="typescript logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="./Logos/python.svg" height="60" alt="python logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img src="./Logos/C.svg" height="60" alt="c logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img src="./Logos/C++.svg" height="60" alt="cplusplus logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="./Logos/Java.svg" height="60" alt="java logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="./Logos/golang.svg" height="60" alt="go logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img src="./Logos/Android.svg" height="60" alt="android logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="60" alt="eclipseide logo"  />
+  <img src="./Logos/jupyter.svg" height="60" alt="jupyter logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="./Logos/eclipse.svg" height="60" alt="eclipseide logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="./Logos/tailwindcss.svg" height="60" alt="tailwindcss logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
+  <img src="./Logos/mysq.svg" height="60" alt="mysql logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img src="./Logos/MongoDB.svg" height="60" alt="mongodb logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
+  <img src="./Logos/Express.svg" height="60" alt="express logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=nextjs,threejs" height="60" alt="nextjs threejs logo"  />
+  <img src="./Logos/React.svg" height="60" alt="react logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img src="./Logos/Next.js.svg" height="60" alt="nextjs logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="./Logos/Three.js.svg" height="60" alt="threejs logo"  />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="./Logos/Vite.js.svg" height="60" alt="vitejs logo"  />
+  <img width="12" alt="" />
+  <img src="./Logos/Node.svg" height="60" alt="nodejs logo"  />
+  <img width="12" alt="" />
+  <img src="./Logos/Git.svg" height="60" alt="git logo"  />
+  <img width="12" alt="" />
+  <img src="./Logos/github.svg" height="60" alt="github logo"  />
 </div>
 
 ---
