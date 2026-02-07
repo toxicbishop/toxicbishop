@@ -81,6 +81,16 @@
 
 <br />
 
+<br />
+
+<h3 align="center">🔝 Top Languages</h3>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=dark" height="180" alt="top languages"/>
+</div>
+
+<br />
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
@@ -91,11 +101,6 @@
 
   <!-- Contributions History (Lines & Habits) -->
   <img src="./github-metrics.svg" alt="metrics" width="100%" />
-  <br />
-  <br />
-
-  <!-- Top Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=dark" height="180" alt="top languages"/>
 </div>
 
 <br />
