@@ -50,6 +50,8 @@
   <img width="12" alt="" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
   <img width="12" alt="" />
+  <img src="https://skillicons.dev/icons?i=nextjs,threejs" height="60" alt="nextjs threejs logo"  />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
