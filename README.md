@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 
 <h1 align="center">Hi 👋, I'm Pranav Arun</h1>
 
@@ -90,11 +91,16 @@
 
   <!-- Contributions History (Lines & Habits) -->
   <img src="./github-metrics.svg" alt="metrics" width="100%" />
+  <br />
+  <br />
+
+  <!-- Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=dark" height="180" alt="top languages"/>
 </div>
 
 <br />
 
-<h3 align="center">👾 Contribution Graph</h3>
+<h3 align="center">👾 Contribution Graph 2026</h3>
 
 <div align="center">
   <picture>
