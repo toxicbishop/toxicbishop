@@ -28,9 +28,9 @@
   <img width="12" alt="" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" alt="" />
