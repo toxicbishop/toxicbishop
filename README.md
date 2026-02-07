@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-<h1 align="center">Hi 👋, I'm Pranav Arun <img src="./favicon-96x96.png" width="30" height="30" alt="" /></h1>
+<h1 align="center">Hi 👋, I'm Pranav Arun <img src="./Logos/html-5.svg" width="30" height="30" alt="" /></h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
