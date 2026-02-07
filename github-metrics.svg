@@ -69,13 +69,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">toxicbishop/married.worm</span>
+                            <span class="diff-handle">toxicbishop/Student-GUI-With-SQL</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">toxicbishop/Health-Tracker-App</span>
+                            <span class="diff-handle">toxicbishop/DSA-with-tsx</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -87,7 +87,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">toxicbishop/Portfolio-2</span>
+                            <span class="diff-handle">toxicbishop/Small-Projects-in-C-And-Cpp</span>
                         </div>
                     </section>
                     <section>
@@ -95,11 +95,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +117k</span>
-                                <span class="deleted"> -3.22k</span>
+                                <span class="added"> +77.9k</span>
+                                <span class="deleted"> -76.4k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -110,8 +110,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +15.3k</span>
-                                <span class="deleted"> -11.8k</span>
+                                <span class="added"> +23.8k</span>
+                                <span class="deleted"> -8.60k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -131,11 +131,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +8.61k</span>
-                                <span class="deleted">   -753</span>
+                                <span class="added"> +7.08k</span>
+                                <span class="deleted"> -4.87k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -144,7 +144,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2026, 18:51:16 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Feb 2026, 18:56:53 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
