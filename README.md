@@ -46,7 +46,7 @@
   <img width="12" alt="" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
   <img width="12" alt="" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="60" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" alt="" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
   <img width="12" alt="" />
