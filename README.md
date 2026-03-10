@@ -6,14 +6,16 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Arun <img src="./assets/favicon.png" width="30" height="30" alt="" /></h1>
 
+<p align="center">I'm a passionate full-stack developer dedicated to building elegant web experiences and solving complex problems with modern tech. Welcome to my GitHub profile where I share my creative projects and explorations.</p>
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning **MERN Stack**.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and building software solutions and quick hacks.
 - 🎓 &nbsp; Studying **Computer Science and Business Systems**.
 - 💼 &nbsp; **Front-end Web Developer** & **Back-end Web Developer**.
 - 🌱 &nbsp; Enthusiast in **Cyber Security** and **Artificial Intelligence**.
-- ✍️ &nbsp; Hobbies: Watching Anime and trying out latest design trends.
+- ✍️ &nbsp; Hobbies: Watching Anime and trying out the latest design trends.
 - ☕ &nbsp; *I believe, a perfect cup of coffee can be the ultimate solution for any stress.*
 - 📫 &nbsp; Reach me at [pranavarun19@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=pranavarun19@gmail.com) or [Instagram](https://www.instagram.com/toxicbishop_/) or [Discord](https://discordapp.com/users/701732138269016064)
 
@@ -21,11 +23,8 @@
 
 <h3 align="center">🛠 Languages and Tools:</h3>
 
+<p align="center"><strong>Languages</strong></p>
 <div align="center">
-  <img src="./assets/Logos/html-5.svg" height="60" alt="html5 logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/css-3.svg" height="60" alt="css logo"  />
-  <img width="12" alt="" />
   <img src="./assets/Logos/javascript.svg" height="60" alt="javascript logo"  />
   <img width="12" alt="" />
   <img src="./assets/Logos/typescript.svg" height="60" alt="typescript logo"  />
@@ -39,20 +38,13 @@
   <img src="./assets/Logos/Java.svg" height="60" alt="java logo"  />
   <img width="12" alt="" />
   <img src="./assets/Logos/golang.svg" height="60" alt="go logo"  />
+</div>
+
+<p align="center"><strong>Frontend</strong></p>
+<div align="center">
+  <img src="./assets/Logos/html-5.svg" height="60" alt="html5 logo"  />
   <img width="12" alt="" />
-  <img src="./assets/Logos/Android.svg" height="60" alt="android logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/jupyter.svg" height="60" alt="jupyter logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/eclipse.svg" height="60" alt="eclipseide logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/tailwindcss.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/mysq.svg" height="60" alt="mysql logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/MongoDB.svg" height="60" alt="mongodb logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/Express.svg" height="60" alt="express logo"  />
+  <img src="./assets/Logos/css-3.svg" height="60" alt="css logo"  />
   <img width="12" alt="" />
   <img src="./assets/Logos/React.svg" height="60" alt="react logo"  />
   <img width="12" alt="" />
@@ -62,11 +54,35 @@
   <img width="12" alt="" />
   <img src="./assets/Logos/Vite.js.svg" height="60" alt="vitejs logo"  />
   <img width="12" alt="" />
+  <img src="./assets/Logos/tailwindcss.svg" height="60" alt="tailwindcss logo"  />
+</div>
+
+<p align="center"><strong>Backend & Databases</strong></p>
+<div align="center">
   <img src="./assets/Logos/Node.svg" height="60" alt="nodejs logo"  />
   <img width="12" alt="" />
+  <img src="./assets/Logos/Express.svg" height="60" alt="express logo"  />
+  <img width="12" alt="" />
+  <img src="./assets/Logos/supabase.svg" height="60" alt="supabase logo"  />
+  <img width="12" alt="" />
+  <img src="./assets/Logos/firebase.svg" height="60" alt="firebase logo"  />
+  <img width="12" alt="" />
+  <img src="./assets/Logos/mysq.svg" height="60" alt="mysql logo"  />
+  <img width="12" alt="" />
+  <img src="./assets/Logos/MongoDB.svg" height="60" alt="mongodb logo"  />
+</div>
+
+<p align="center"><strong>Tools & Others</strong></p>
+<div align="center">
   <img src="./assets/Logos/Git.svg" height="60" alt="git logo"  />
   <img width="12" alt="" />
   <img src="./assets/Logos/github.svg" height="60" alt="github logo"  />
+  <img width="12" alt="" />
+  <img src="./assets/Logos/Android.svg" height="60" alt="android logo"  />
+  <img width="12" alt="" />
+  <img src="./assets/Logos/jupyter.svg" height="60" alt="jupyter logo"  />
+  <img width="12" alt="" />
+  <img src="./assets/Logos/eclipse.svg" height="60" alt="eclipseide logo"  />
 </div>
 
 ---
