@@ -90,6 +90,8 @@
     <img src="./assets/Logos/github.svg" height="60" alt="github logo"  />
   </picture>
   <img width="12" alt="" />
+  <img src="./assets/Logos/docker.svg" height="60" alt="docker logo"  />
+  <img width="12" alt="" />
   <img src="./assets/Logos/vscode.svg" height="60" alt="vscode logo"  />
   <img width="12" alt="" />
   <img src="./assets/Logos/postman.svg" height="60" alt="postman logo"  />
