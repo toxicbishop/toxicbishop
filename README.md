@@ -90,10 +90,7 @@
     <img src="./assets/Logos/github.svg" height="60" alt="github logo"  />
   </picture>
   <img width="12" alt="" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/vscode-alt.svg">
-    <img src="./assets/Logos/vscode.svg" height="60" alt="vscode logo"  />
-  </picture>
+  <img src="./assets/Logos/vscode.svg" height="60" alt="vscode logo"  />
   <img width="12" alt="" />
   <img src="./assets/Logos/postman.svg" height="60" alt="postman logo"  />
   <img width="12" alt="" />
