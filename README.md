@@ -48,7 +48,10 @@
   <img width="12" alt="" />
   <img src="./assets/Logos/React.svg" height="60" alt="react logo"  />
   <img width="12" alt="" />
-  <img src="./assets/Logos/Next.js.svg" height="60" alt="nextjs logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/Next.js-light.svg">
+    <img src="./assets/Logos/Next.js.svg" height="60" alt="nextjs logo"  />
+  </picture>
   <img width="12" alt="" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/Three.js-light.svg">
@@ -64,7 +67,10 @@
 <div align="center">
   <img src="./assets/Logos/Node.svg" height="60" alt="nodejs logo"  />
   <img width="12" alt="" />
-  <img src="./assets/Logos/Express.svg" height="60" alt="express logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/Express-light.svg">
+    <img src="./assets/Logos/Express.svg" height="60" alt="express logo"  />
+  </picture>
   <img width="12" alt="" />
   <img src="./assets/Logos/supabase.svg" height="60" alt="supabase logo"  />
   <img width="12" alt="" />
