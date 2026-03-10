@@ -50,7 +50,10 @@
   <img width="12" alt="" />
   <img src="./assets/Logos/Next.js.svg" height="60" alt="nextjs logo"  />
   <img width="12" alt="" />
-  <img src="./assets/Logos/Three.js.svg" height="60" alt="threejs logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/Three.js-light.svg">
+    <img src="./assets/Logos/Three.js.svg" height="60" alt="threejs logo"  />
+  </picture>
   <img width="12" alt="" />
   <img src="./assets/Logos/Vite.js.svg" height="60" alt="vitejs logo"  />
   <img width="12" alt="" />
@@ -76,7 +79,10 @@
 <div align="center">
   <img src="./assets/Logos/Git.svg" height="60" alt="git logo"  />
   <img width="12" alt="" />
-  <img src="./assets/Logos/github.svg" height="60" alt="github logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/github-light.svg">
+    <img src="./assets/Logos/github.svg" height="60" alt="github logo"  />
+  </picture>
   <img width="12" alt="" />
   <img src="./assets/Logos/Android.svg" height="60" alt="android logo"  />
   <img width="12" alt="" />
