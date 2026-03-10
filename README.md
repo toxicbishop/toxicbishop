@@ -98,7 +98,7 @@
 <h3 align="center">🔝 Top Languages</h3>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=dark" height="180" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=github_dark" height="180" alt="top languages"/>
 </div>
 
 <br />
@@ -107,7 +107,7 @@
 
 <div align="center">
   <!-- Clean General Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toxicbishop&theme=dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toxicbishop&theme=github_dark" alt="stats" />
   <br />
   <br />
 
