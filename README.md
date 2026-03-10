@@ -120,7 +120,7 @@
 <h3 align="center">🔝 Top Languages</h3>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=github_dark" height="180" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=github_dark&title_color=0366d6" height="180" alt="top languages"/>
 </div>
 
 <br />
