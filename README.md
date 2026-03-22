@@ -16,7 +16,7 @@
 - 💼 &nbsp; **Front-end Web Developer** & **Back-end Web Developer**.
 - 🌱 &nbsp; Enthusiast in **Cyber Security** and **Artificial Intelligence**.
 - ✍️ &nbsp; Hobbies: Watching Anime and trying out the latest design trends.
-- ☕ &nbsp; *I believe, a perfect cup of coffee can be the ultimate solution for any stress.*
+- ☕ &nbsp; _I believe, a perfect cup of coffee can be the ultimate solution for any stress._
 - 📫 &nbsp; Reach me at [pranavarun19@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=pranavarun19@gmail.com) or [Instagram](https://www.instagram.com/toxicbishop_/) or [Discord](https://discordapp.com/users/701732138269016064)
 
 ---
@@ -129,23 +129,12 @@
 
 <br />
 
-<h3 align="center">🔝 Top Languages</h3>
-
+<h3 align="center">📊 GitHub Stats & 🔝 Top Languages</h3>
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toxicbishop&theme=github_dark" height="180" alt="stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=github_dark&title_color=0366d6" height="180" alt="top languages"/>
-</div>
-
-<br />
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <!-- Clean General Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toxicbishop&theme=github_dark" alt="stats" />
   <br />
   <br />
-
-  <!-- Contributions History (Lines & Habits) -->
   <img src="./github-metrics.svg" alt="metrics" width="100%" />
 </div>
 
