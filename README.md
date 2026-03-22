@@ -129,11 +129,19 @@
 
 <br />
 
-<h3 align="center">📊 GitHub Stats & 🔝 Top Languages</h3>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toxicbishop&theme=github_dark" height="180" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=github_dark&title_color=0366d6" height="180" alt="top languages"/>
-  <br />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <h3 align="center">📊 GitHub Stats</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toxicbishop&theme=github_dark" height="180" alt="stats" />
+      </td>
+      <td align="center">
+        <h3 align="center">🔝 Top Languages</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=github_dark&title_color=0366d6" height="180" alt="top languages" />
+      </td>
+    </tr>
+  </table>
   <br />
   <img src="./github-metrics.svg" alt="metrics" width="100%" />
 </div>
