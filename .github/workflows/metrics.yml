@@ -21,11 +21,6 @@ jobs:
           # Base options (Clean: removed repositories, community)
           base: header, metadata
 
-          # 2. Lines (Contribution History - Clean)
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: history, repositories
 
           # 3. Clean Setup
           config_padding: 0, 8 + 11%
