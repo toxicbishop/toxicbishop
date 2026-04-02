@@ -146,7 +146,7 @@
 
 <br />
 
-<h3 align="center">👾 Contribution Graph 2025</h3>
+<h3 align="center">👾 Contribution Graph 2026</h3>
 
 <div align="center">
   <picture>
