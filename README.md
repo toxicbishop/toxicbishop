@@ -133,11 +133,11 @@
   <table border="0">
     <tr>
       <td align="center">
-        <h3 align="center">📊 GitHub Stats</h3>
+        <h3 align="center"> GitHub Stats 📊</h3>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toxicbishop&theme=github_dark" height="180" alt="stats" />
       </td>
       <td align="center">
-        <h3 align="center">🔝 Top Languages</h3>
+        <h3 align="center">Top Languages 🔝</h3>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=github_dark&title_color=0366d6" height="180" alt="top languages" />
       </td>
     </tr>
