@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <div align="center">
-  <img src="./assets/banner/banner.jpg" alt="Banner" width="100%" />
+  <img src="./assets/banner/banner.jpg" alt="Pranav Arun — GitHub profile banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Pranav Arun <img src="./assets/favicon.png" width="30" height="30" alt="" /></h1>
@@ -10,14 +10,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning **MERN Stack**.
+- 🔭 &nbsp; Currently building with the **MERN Stack** and exploring **LLM apps**.
 - 🤔 &nbsp; Exploring new technologies and building software solutions and quick hacks.
 - 🎓 &nbsp; Studying **Computer Science and Business Systems**.
 - 💼 &nbsp; **Front-end Web Developer** & **Back-end Web Developer**.
 - 🌱 &nbsp; Enthusiast in **Cyber Security** and **Artificial Intelligence**.
 - ✍️ &nbsp; Hobbies: Watching Anime and trying out the latest design trends.
 - ☕ &nbsp; _I believe, a perfect cup of coffee can be the ultimate solution for any stress._
-- 📫 &nbsp; Reach me at [pranavarun19@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=pranavarun19@gmail.com) or [Instagram](https://www.instagram.com/toxicbishop_/) or [Discord](https://discordapp.com/users/701732138269016064)
 
 ---
 
@@ -96,11 +95,7 @@
   <img width="12" alt="" />
   <img src="./assets/Logos/postman.svg" height="60" alt="postman logo"  />
   <img width="12" alt="" />
-  <img src="./assets/Logos/Android.svg" height="60" alt="android logo"  />
-  <img width="12" alt="" />
   <img src="./assets/Logos/jupyter.svg" height="60" alt="jupyter logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/eclipse.svg" height="60" alt="eclipseide logo"  />
 </div>
 
 ---
@@ -116,7 +111,7 @@
     <img src="./assets/Logos/instagram.svg" width="50" height="40" alt="instagram" />
   </a>
   <img width="12" alt="" />
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pranavarun19@gmail.com" target="_blank">
+  <a href="mailto:pranavarun19@gmail.com" target="_blank">
     <img src="./assets/Logos/gmail.svg" width="50" height="40" alt="gmail" />
   </a>
   <img width="12" alt="" />
@@ -146,7 +141,7 @@
 
 <br />
 
-<h3 align="center">👾 Contribution Graph 2026</h3>
+<h3 align="center">👾 Contribution Graph</h3>
 
 <div align="center">
   <picture>
