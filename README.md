@@ -4,9 +4,19 @@
   <img src="./assets/banner/banner.jpg" alt="Pranav Arun — GitHub profile banner" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Pranav Arun <img src="./assets/favicon.png" width="30" height="30" alt="" /></h1>
+<br/>
 
-<p align="center">A passionate full-stack developer & AI enthusiast dedicated to building elegant web experiences and solving complex problems with modern tech. Welcome to my GitHub profile where I share my creative projects and explorations.</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&multiline=false&width=750&lines=%5B+Pranav+·+B.E.+CSBS+·+KSSEM+·+3rd+Year+%5D;%5B+Backend+Dev+%7C+AI%2FML+%7C+LLM+Apps+%5D+—+open+to+opportunities;%5B+React+·+Node.js+·+Go+·+System+Design+·+Python+%5D)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<p align="center">A passionate backend developer & AI enthusiast dedicated to building robust systems and solving complex problems with modern tech. Welcome to my GitHub profile where I share my creative projects and explorations.</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/pranav-arun-4b927b290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>&nbsp;
@@ -23,165 +33,145 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently working on **[Vital App](https://portfolio-ten-sigma-27.vercel.app/)** — a health tracking solution.
+- 🔭 &nbsp; Currently working on **[Chain of Thought](https://github.com/toxicbishop/Chain-of-Thought)** — a LLM-powered Web app.
 - 🌱 &nbsp; Currently learning **System Design** & exploring **LLM-powered apps**.
 - 💬 &nbsp; Ask me about **React, Node.js, Python** — happy to help!
 - 🤔 &nbsp; Exploring new technologies and building software solutions and quick hacks.
 - 🎓 &nbsp; Studying **Computer Science and Business Systems**.
-- 💼 &nbsp; **Full-Stack Web Developer** & **AI/ML Enthusiast**.
+- 💼 &nbsp; **Backend Developer** & **AI/ML Enthusiast**.
 - 🌱 &nbsp; Enthusiast in **Cyber Security** and **Artificial Intelligence**.
 - ✍️ &nbsp; Hobbies: Watching Anime and trying out the latest design trends.
 - ☕ &nbsp; _I believe, a perfect cup of coffee can be the ultimate solution for any stress._
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Chain of Thought</h4>
+      <p>A pure Go Chain-of-Thought reasoning backend featuring a custom, zero-dependency transformer model. It streams real-time reasoning traces via SSE and utilizes Kafka, Redis, and Firebase for event-driven inference and state management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=00E5FF" />
+      </p>
+      <a href="https://github.com/toxicbishop/Chain-of-Thought"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 DSA Study Hub</h4>
+      <p>An interactive educational web app to help students master Data Structures and Applications. Features modern UI with C source code viewer and browser-based algorithm simulations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00E5FF" />
+      </p>
+      <a href="https://github.com/toxicbishop/DSA-with-tsx"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>&nbsp;
+      <a href="https://dsa-study-hub.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔐 CryptVault</h4>
+      <p>A hybrid C++ + x64 Assembly encryption tool with a blockchain-backed tamper-proof audit trail and P2P multi-user network. Built from scratch with zero external dependencies.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Blockchain-000000?style=flat-square&logo=bitcoin&logoColor=00E5FF" />
+      </p>
+      <p><sub>Contributors: <a href="https://github.com/supr1795">Supreeth</a> · <a href="https://github.com/Mohammed0572">Syed</a> · <a href="https://github.com/Rohithgaloth">Rohith</a></sub></p>
+      <a href="https://github.com/toxicbishop/Crypt-Vault"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 Student Management System</h4>
+      <p>A comprehensive Student Management System implemented in both Python and Java. Demonstrates the evolution of a GUI application from basic CRUD to advanced analytics in two different programming ecosystems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=00E5FF" />
+      </p>
+      <a href="https://github.com/toxicbishop/Student-GUI-With-SQL"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💚 VITAL Health App</h4>
+      <p>A streamlined health tracker built with Flutter and backed by Google Apps Script + Google Sheets. Ultra-lightweight and focused on simplicity.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Google_Sheets-000000?style=flat-square&logo=googlesheets&logoColor=00E5FF" />
+      </p>
+      <a href="https://github.com/toxicbishop/VITAL-Health-App-Flutter"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏫 KSSEM ERP System</h4>
+      <p>Streamline Campus Operations built with Next.js, Firebase & Tailwind CSS. Features student/faculty/admin dashboards, attendance tracking, grade management, exam registration, classroom chat, and AI-powered analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=00E5FF" />
+      </p>
+      <a href="https://github.com/toxicbishop/KSSEM-College-ERP-System"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>&nbsp;
+      <a href="https://kssem-college-erp-system.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h3 align="center">🛠 Languages and Tools:</h3>
 
-<p align="center"><strong>Languages</strong></p>
-<div align="center">
-  <img src="./assets/Logos/javascript.svg" height="60" alt="javascript logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/typescript.svg" height="60" alt="typescript logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/python.svg" height="60" alt="python logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/C.svg" height="60" alt="c logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/C++.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/Java.svg" height="60" alt="java logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/golang.svg" height="60" alt="go logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-</div>
+<p align="center"><strong>Languages</strong><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,go,cs,dart" />
+  </a>
+</p>
 
-<p align="center"><strong>Frontend</strong></p>
-<div align="center">
-  <img src="./assets/Logos/html-5.svg" height="60" alt="html5 logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/css-3.svg" height="60" alt="css logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/React.svg" height="60" alt="react logo"  />
-  <img width="12" alt="" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/Next.js-light.svg">
-    <img src="./assets/Logos/Next.js.svg" height="60" alt="nextjs logo"  />
-  </picture>
-  <img width="12" alt="" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/Three.js-light.svg">
-    <img src="./assets/Logos/Three.js.svg" height="60" alt="threejs logo"  />
-  </picture>
-  <img width="12" alt="" />
-  <img src="./assets/Logos/Vite.js.svg" height="60" alt="vitejs logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/tailwindcss.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
-</div>
+<p align="center"><strong>Frontend</strong><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,threejs,vite,tailwind,angular" />
+  </a>
+</p>
 
-<p align="center"><strong>Backend & Databases</strong></p>
-<div align="center">
-  <img src="./assets/Logos/Node.svg" height="60" alt="nodejs logo"  />
-  <img width="12" alt="" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/Express-light.svg">
-    <img src="./assets/Logos/Express.svg" height="60" alt="express logo"  />
-  </picture>
-  <img width="12" alt="" />
-  <img src="./assets/Logos/supabase.svg" height="60" alt="supabase logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/firebase.svg" height="60" alt="firebase logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/mysq.svg" height="60" alt="mysql logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/MongoDB.svg" height="60" alt="mongodb logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=cassandra" height="60" alt="cassandra logo"  />
-</div>
+<p align="center"><strong>Backend & Databases</strong><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,mysql,mongodb,django,fastapi,spring,graphql,kafka,redis,nginx,postgres,cassandra&perline=8" />
+  </a>
+</p>
 
-<p align="center"><strong>AI / ML & Data Science</strong></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+<p align="center"><strong>AI / ML & Data Science</strong><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  </a><br/>
+  <br/>
+  <img src="https://cdn.simpleicons.org/huggingface" height="48" alt="huggingface logo" />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
+  <img src="https://cdn.simpleicons.org/ollama" height="48" alt="ollama logo" />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="scikit-learn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy logo" />
   <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas logo" />
   <img width="12" alt="" />
-  <img src="https://cdn.simpleicons.org/huggingface" height="60" alt="huggingface logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="60" alt="langchain logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.simpleicons.org/ollama" height="60" alt="ollama logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="matplotlib logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib logo" />
+</p>
 
-<p align="center"><strong>Mobile</strong></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react native logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/Android.svg" height="60" alt="android logo"  />
-</div>
+<p align="center"><strong>Mobile</strong><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,kotlin" />
+  </a>
+</p>
 
-<p align="center"><strong>Tools & DevOps</strong></p>
-<div align="center">
-  <img src="./assets/Logos/Git.svg" height="60" alt="git logo"  />
-  <img width="12" alt="" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Logos/github-light.svg">
-    <img src="./assets/Logos/github.svg" height="60" alt="github logo"  />
-  </picture>
-  <img width="12" alt="" />
-  <img src="./assets/Logos/docker.svg" height="60" alt="docker logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/vscode.svg" height="60" alt="vscode logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/postman.svg" height="60" alt="postman logo"  />
-  <img width="12" alt="" />
-  <img src="./assets/Logos/jupyter.svg" height="60" alt="jupyter logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
-  <img width="12" alt="" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-</div>
-
----
+<p align="center"><strong>Tools & DevOps</strong><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,aws,jenkins,linux" />
+  </a><br/>
+  <br/>
+  <img src="./assets/Logos/jupyter.svg" height="48" alt="jupyter logo" />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
   <table border="0">
@@ -192,23 +182,23 @@
       </td>
       <td align="center">
         <h3 align="center">Top Languages 🔝</h3>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=github_dark&title_color=0366d6" height="180" alt="top languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxicbishop&theme=github_dark" height="180" alt="top languages" />
       </td>
     </tr>
   </table>
 </div>
 
-<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h3 align="center">🔥 Streak Stats</h3>
+<h3 align="center">Streak Stats 🔥</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toxicbishop&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h3 align="center">👾 Contribution Graph</h3>
+<h3 align="center">Contribution Graph 👾</h3>
 
 <div align="center">
   <picture>
