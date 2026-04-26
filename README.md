@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/pranav-arun/" target="_blank"><img src="https://img.shields.io/badge/📄_Resume-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="Resume" /></a>
 </p>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>About Me 👨🏻‍💻</h3>
 
 - 🔭 &nbsp; Currently working on **[Chain of Thought](https://github.com/toxicbishop/Chain-of-Thought)** — a LLM-powered Web app.
 - 🌱 &nbsp; Currently learning **System Design** & exploring **LLM-powered apps**.
@@ -45,12 +45,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">Featured Projects 🚀</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 Chain of Thought</h4>
+      <h4>Chain of Thought 🧠</h4>
       <p>A pure Go Chain-of-Thought reasoning backend featuring a custom, zero-dependency transformer model. It streams real-time reasoning traces via SSE and utilizes Kafka, Redis, and Firebase for event-driven inference and state management.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00E5FF" />
@@ -61,7 +61,7 @@
       <a href="https://github.com/toxicbishop/Chain-of-Thought"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>📚 DSA Study Hub</h4>
+      <h4>DSA Study Hub 📚</h4>
       <p>An interactive educational web app to help students master Data Structures and Applications. Features modern UI with C source code viewer and browser-based algorithm simulations.</p>
       <p>
         <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00E5FF" />
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔐 CryptVault</h4>
+      <h4>CryptVault 🔐</h4>
       <p>A hybrid C++ + x64 Assembly encryption tool with a blockchain-backed tamper-proof audit trail and P2P multi-user network. Built from scratch with zero external dependencies.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00E5FF" />
@@ -85,7 +85,7 @@
       <a href="https://github.com/toxicbishop/Crypt-Vault"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🎓 Student Management System</h4>
+      <h4>Student Management System 🎓</h4>
       <p>A comprehensive Student Management System implemented in both Python and Java. Demonstrates the evolution of a GUI application from basic CRUD to advanced analytics in two different programming ecosystems.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" />
@@ -97,7 +97,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💚 VITAL Health App</h4>
+      <h4>VITAL Health App 💚</h4>
       <p>A streamlined health tracker built with Flutter and backed by Google Apps Script + Google Sheets. Ultra-lightweight and focused on simplicity.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=00E5FF" />
@@ -107,7 +107,7 @@
       <a href="https://github.com/toxicbishop/VITAL-Health-App-Flutter"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🏫 KSSEM ERP System</h4>
+      <h4> KSSEM ERP System 🏫</h4>
       <p>Streamline Campus Operations built with Next.js, Firebase & Tailwind CSS. Features student/faculty/admin dashboards, attendance tracking, grade management, exam registration, classroom chat, and AI-powered analytics.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=00E5FF" />
@@ -122,7 +122,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h3 align="center">🛠 Languages and Tools:</h3>
+<h3 align="center">Languages and Tools 🛠:</h3>
 
 <p align="center"><strong>Languages</strong><br/>
   <a href="https://skillicons.dev">
