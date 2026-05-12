@@ -33,7 +33,7 @@
 
 <h3>About Me 👨🏻‍💻</h3>
 
-- 🔭 &nbsp; Currently working on **[Chain of Thought](https://github.com/toxicbishop/Chain-of-Thought)** — a LLM-powered Web app.
+- 🔭 &nbsp; Currently working on **[VITAL Health App](https://github.com/toxicbishop/VITAL-Health-App-Flutter)** — a LLM-powered Web app.
 - 🌱 &nbsp; Currently learning **System Design** & exploring **LLM-powered apps**.
 - 💬 &nbsp; Ask me about **React, Node.js, Python** — happy to help!
 - 🤔 &nbsp; Exploring new technologies and building software solutions and quick hacks.
