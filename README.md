@@ -68,7 +68,7 @@
         <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00E5FF" />
       </p>
-      <a href="https://github.com/toxicbishop/DSA-with-tsx"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>&nbsp;
+      <a href="https://github.com/toxicbishop/DSA-Study-Hub"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>&nbsp;
       <a href="https://dsa-study-hub.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
     </td>
   </tr>
