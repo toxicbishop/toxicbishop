@@ -92,7 +92,7 @@
         <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=00E5FF" />
       </p>
-      <a href="https://github.com/toxicbishop/Student-GUI-With-SQL"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+      <a href="https://github.com/toxicbishop/Student-Marks-Management"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
   </tr>
   <tr>
