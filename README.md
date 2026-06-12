@@ -49,15 +49,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Chain of Thought 🧠</h4>
-      <p>A pure Go Chain-of-Thought reasoning backend featuring a custom, zero-dependency transformer model. It streams real-time reasoning traces via SSE and utilizes Kafka, Redis, and Firebase for event-driven inference and state management.</p>
+      <h4>nano GPT 🤖</h4>
+      <p>A CPU-friendly character-level GPT from scratch in PyTorch featuring modern architecture (RoPE, RMSNorm, GQA) and a modular RAG pipeline with Chroma DB.</p>
       <p>
-        <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Chroma_DB-000000?style=flat-square&logo=database&logoColor=00E5FF" />
       </p>
-      <a href="https://github.com/toxicbishop/Chain-of-Thought"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+      <a href="https://github.com/toxicbishop/nanoGPT"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>DSA Study Hub 📚</h4>
