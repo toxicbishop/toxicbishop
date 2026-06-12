@@ -27,8 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-ten-sigma-27.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=00E5FF" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/pranav-arun/" target="_blank"><img src="https://img.shields.io/badge/📄_Resume-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="Resume" /></a>
+  <a href="https://portfolio-ten-sigma-27.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=00E5FF" alt="Portfolio" /></a>
 </p>
 
 <h3>About Me 👨🏻‍💻</h3>
