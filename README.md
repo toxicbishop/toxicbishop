@@ -38,7 +38,7 @@
 - 🤔 &nbsp; Exploring new technologies and building software solutions and quick hacks.
 - 🎓 &nbsp; Studying **Computer Science and Business Systems**.
 - 💼 &nbsp; **Backend Developer** & **AI/ML Enthusiast**.
-- 🌱 &nbsp; Enthusiast in **Cyber Security** and **Artificial Intelligence**.
+- 🌱 &nbsp; Enthusiast in **Cyber Security**, **Artificial Intelligence**, **RAG apps** and **Machine Learning**.
 - ✍️ &nbsp; Hobbies: Watching Anime and trying out the latest design trends.
 - ☕ &nbsp; _I believe, a perfect cup of coffee can be the ultimate solution for any stress._
 
