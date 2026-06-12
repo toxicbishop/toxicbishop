@@ -110,6 +110,7 @@
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=graphql&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=00E5FF" />
       </p>
       <a href="https://github.com/toxicbishop/KSSEM-College-ERP-System"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>&nbsp;
