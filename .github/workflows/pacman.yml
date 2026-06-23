@@ -29,6 +29,8 @@ jobs:
           npx -y pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --game pacman --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
         env:
           NODE_OPTIONS: "--max-old-space-size=6144"
+          GITHUB_TOKEN: ${{ secrets.PACMAN_TOKEN }}
+          INPUT_GITHUB_TOKEN: ${{ secrets.PACMAN_TOKEN }}
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v5
