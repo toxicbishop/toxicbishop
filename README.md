@@ -32,7 +32,7 @@
 
 <h3>About Me 👨🏻‍💻</h3>
 
-- 🔭 &nbsp; Currently working on **[nanoGPT](https://github.com/toxicbishop/nanoGPT)**
+- 🔭 &nbsp; Currently working on **[Voting-System](https://github.com/Mohammed0572/VotingSystem)**
 - 🌱 &nbsp; Currently learning **System Design** & exploring **LLM-powered apps**.
 - 💬 &nbsp; Ask me about **React, Node.js, Python** — happy to help!
 - 🤔 &nbsp; Exploring new technologies and building software solutions and quick hacks.
