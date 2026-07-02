@@ -23,7 +23,7 @@
   <a href="https://instagram.com/toxicbishop_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram" /></a>&nbsp;
   <a href="mailto:pranavarun19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Gmail" /></a>&nbsp;
   <a href="https://discordapp.com/users/701732138269016064" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00E5FF" alt="Discord" /></a>&nbsp;
-  <a href="https://gitlab.com/toxicbishop" target="_blank"><img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00E5FF" alt="GitLab" /></a>
+  <a href="https://github.com/toxicbishop" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
 </p>
 
 <p align="center">
