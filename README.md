@@ -105,16 +105,15 @@
       <a href="https://github.com/toxicbishop/VITAL-Health-App-Flutter"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4> KSSEM ERP System 🏫</h4>
-      <p>Streamline Campus Operations built with Next.js, Firebase & Tailwind CSS. Features student/faculty/admin dashboards, attendance tracking, grade management, exam registration, classroom chat, and AI-powered analytics.</p>
+      <h4> Multimodal Blockchain based Voting System 🗳️</h4>
+      <p>A tamper-proof election platform integrating biometric facial recognition with decentralized Ethereum ledgers.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=graphql&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Ethereum-000000?style=flat-square&logo=ethereum&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00E5FF" />
       </p>
-      <a href="https://github.com/toxicbishop/KSSEM-College-ERP-System"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>&nbsp;
-      <a href="https://kssem-college-erp-system.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
+      <a href="https://github.com/Mohammed0572/VotingSystem"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
   </tr>
 </table>
