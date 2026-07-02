@@ -169,6 +169,7 @@
   <br/>
   <img src="./assets/Logos/jupyter.svg" height="48" alt="jupyter logo" />
 </p>
+<!-- GITLAB_REMOVE_START -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
@@ -188,3 +189,4 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/toxicbishop/toxicbishop/output/pacman-contribution-graph-dark.svg" width="100%">
   </picture>
 </div>
+<!-- GITLAB_REMOVE_END -->
