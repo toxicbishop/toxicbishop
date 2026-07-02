@@ -15,5 +15,5 @@ jobs:
 
       - name: Push to GitLab
         run: |
-          git remote add gitlab https://toxicbishop:${{ secrets.GITLAB_TOKEN }}@gitlab.com/toxicbishop/toxicbishop.git
+          git remote add gitlab https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/toxicbishop/toxicbishop.git
           git push gitlab master
