@@ -15,5 +15,13 @@ jobs:
 
       - name: Push to GitLab
         run: |
+          # Swap GitLab shield to GitHub shield for the GitLab mirror
+          sed -i 's|href="https://gitlab.com/toxicbishop" target="_blank"><img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00E5FF" alt="GitLab" />|href="https://github.com/toxicbishop" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00E5FF" alt="GitHub" />|g' README.md
+          
+          # Commit the change to the runner's local clone
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Swap shield for GitLab mirror" || true
+          
           git remote add gitlab https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/toxicbishop/toxicbishop.git
-          git push gitlab master
+          git push gitlab master --force
