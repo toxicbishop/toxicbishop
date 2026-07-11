@@ -78,6 +78,7 @@
         <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/Blockchain-000000?style=flat-square&logo=bitcoin&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=00E5FF" />
       </p>
       <p><sub>Contributors: <a href="https://github.com/supr1795">Supreeth</a> · <a href="https://github.com/Mohammed0572">Syed</a> · <a href="https://github.com/Rohithgaloth">Rohith</a></sub></p>
       <a href="https://github.com/toxicbishop/Crypt-Vault"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
