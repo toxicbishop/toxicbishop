@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <div align="center">
-  <img src="./assets/banner/banner.jpg" alt="Pranav Arun — GitHub profile banner" width="100%" />
+  <img src="assets\gifs\fallout.gif" alt="Pranav Arun — GitHub profile banner" width="100%" />
 </div>
 
 <br/>
