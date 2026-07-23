@@ -174,7 +174,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toxicbishop&show_icons=true&bg_color=000000&title_color=00E5FF&text_color=8892a4&icon_color=00E5FF&border_color=00E5FF30&hide_border=false&rank_icon=github&ring_color=00E5FF" height="175" alt="stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=toxicbishop&show_icons=true&bg_color=000000&title_color=00E5FF&text_color=8892a4&icon_color=00E5FF&border_color=00E5FF30&hide_border=false&count_private=true&rank_icon=github&ring_color=00E5FF" height="175" alt="stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=toxicbishop&background=000000&border=00E5FF30&ring=00E5FF&fire=00bcd4&currStreakLabel=00E5FF&sideLabels=8892a4&dates=3d5166&stroke=00E5FF15&currStreakNum=00E5FF&sideNums=8892a4" height="175" alt="streak stats" />
 </div>
