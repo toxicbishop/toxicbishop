@@ -171,6 +171,11 @@
   <img src="./assets/Logos/jupyter.svg" height="48" alt="jupyter logo" />
 </p>
 <!-- GITLAB_REMOVE_START -->
+<h3>⚡ Recent Activity</h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
