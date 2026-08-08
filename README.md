@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#65](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/65) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-2. ❌ Closed PR [#63](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/63) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-3. ❌ Closed PR [#1](https://github.com/toxicbishop/Portfolio-5/pull/1) in [toxicbishop/Portfolio-5](https://github.com/toxicbishop/Portfolio-5)
-4. ❌ Closed PR [#19](https://github.com/toxicbishop/Mac-Portfolio/pull/19) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
-5. ❌ Closed PR [#18](https://github.com/toxicbishop/Mac-Portfolio/pull/18) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
+1. 🎉 Merged PR [#23](https://github.com/toxicbishop/Web-Scraper/pull/23) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+2. 💪 Opened PR [#23](https://github.com/toxicbishop/Web-Scraper/pull/23) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+3. ❌ Closed PR [#65](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/65) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+4. ❌ Closed PR [#63](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/63) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+5. ❌ Closed PR [#1](https://github.com/toxicbishop/Portfolio-5/pull/1) in [toxicbishop/Portfolio-5](https://github.com/toxicbishop/Portfolio-5)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
