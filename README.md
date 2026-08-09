@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#188](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/188) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-2. ❌ Closed PR [#187](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/187) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-3. ❌ Closed PR [#18](https://github.com/abhintr2006/DSA/pull/18) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-4. ❌ Closed PR [#23](https://github.com/abhintr2006/DSA/pull/23) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-5. ❌ Closed PR [#24](https://github.com/abhintr2006/DSA/pull/24) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+1. ❌ Closed PR [#15](https://github.com/toxicbishop/nanoGPT/pull/15) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+2. ❌ Closed PR [#14](https://github.com/toxicbishop/nanoGPT/pull/14) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+3. ❌ Closed PR [#13](https://github.com/toxicbishop/nanoGPT/pull/13) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+4. ❌ Closed PR [#12](https://github.com/toxicbishop/nanoGPT/pull/12) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+5. ❌ Closed PR [#10](https://github.com/toxicbishop/nanoGPT/pull/10) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
