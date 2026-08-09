@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/toxicbishop/Student-Marks-Management/pull/23) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-2. 💪 Opened PR [#23](https://github.com/toxicbishop/Student-Marks-Management/pull/23) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-3. ❌ Closed PR [#16](https://github.com/toxicbishop/Student-Marks-Management/pull/16) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-4. ❌ Closed PR [#15](https://github.com/toxicbishop/Student-Marks-Management/pull/15) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-5. ❌ Closed PR [#14](https://github.com/toxicbishop/Student-Marks-Management/pull/14) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+1. ❌ Closed PR [#103](https://github.com/Mohammed0572/VotingSystem/pull/103) in [Mohammed0572/VotingSystem](https://github.com/Mohammed0572/VotingSystem)
+2. 🎉 Merged PR [#23](https://github.com/toxicbishop/Student-Marks-Management/pull/23) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+3. 💪 Opened PR [#23](https://github.com/toxicbishop/Student-Marks-Management/pull/23) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+4. ❌ Closed PR [#16](https://github.com/toxicbishop/Student-Marks-Management/pull/16) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+5. ❌ Closed PR [#15](https://github.com/toxicbishop/Student-Marks-Management/pull/15) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
