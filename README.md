@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/toxicbishop/Web-Scraper/pull/24) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-2. 💪 Opened PR [#24](https://github.com/toxicbishop/Web-Scraper/pull/24) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-3. 🎉 Merged PR [#23](https://github.com/toxicbishop/Web-Scraper/pull/23) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-4. 💪 Opened PR [#23](https://github.com/toxicbishop/Web-Scraper/pull/23) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-5. ❌ Closed PR [#65](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/65) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+1. ❌ Closed PR [#112](https://github.com/memer0/Neotic/pull/112) in [memer0/Neotic](https://github.com/memer0/Neotic)
+2. ❌ Closed PR [#109](https://github.com/memer0/Neotic/pull/109) in [memer0/Neotic](https://github.com/memer0/Neotic)
+3. ❌ Closed PR [#186](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/186) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+4. ❌ Closed PR [#185](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/185) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+5. ❌ Closed PR [#184](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/184) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
