@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/toxicbishop/Weather-ascii/pull/17) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
-2. 🎉 Merged PR [#19](https://github.com/toxicbishop/Weather-ascii/pull/19) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
-3. 💪 Opened PR [#19](https://github.com/toxicbishop/Weather-ascii/pull/19) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
-4. 🎉 Merged PR [#18](https://github.com/toxicbishop/Weather-ascii/pull/18) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
-5. 💪 Opened PR [#18](https://github.com/toxicbishop/Weather-ascii/pull/18) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+1. ❌ Closed PR [#188](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/188) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+2. ❌ Closed PR [#187](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/187) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+3. ❌ Closed PR [#18](https://github.com/abhintr2006/DSA/pull/18) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+4. ❌ Closed PR [#23](https://github.com/abhintr2006/DSA/pull/23) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+5. ❌ Closed PR [#24](https://github.com/abhintr2006/DSA/pull/24) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
