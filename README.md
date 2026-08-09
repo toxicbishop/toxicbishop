@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/37) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-2. 💪 Opened PR [#37](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/37) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-3. ℹ️ Assigned PR [#37](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/37) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-4. ❌ Closed PR [#67](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/67) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-5. ❌ Closed PR [#66](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/66) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+1. ❌ Closed PR [#17](https://github.com/toxicbishop/Weather-ascii/pull/17) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+2. 🎉 Merged PR [#19](https://github.com/toxicbishop/Weather-ascii/pull/19) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+3. 💪 Opened PR [#19](https://github.com/toxicbishop/Weather-ascii/pull/19) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+4. 🎉 Merged PR [#18](https://github.com/toxicbishop/Weather-ascii/pull/18) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+5. 💪 Opened PR [#18](https://github.com/toxicbishop/Weather-ascii/pull/18) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
