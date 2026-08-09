@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#112](https://github.com/memer0/Neotic/pull/112) in [memer0/Neotic](https://github.com/memer0/Neotic)
-2. ❌ Closed PR [#109](https://github.com/memer0/Neotic/pull/109) in [memer0/Neotic](https://github.com/memer0/Neotic)
-3. ❌ Closed PR [#186](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/186) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-4. ❌ Closed PR [#185](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/185) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-5. ❌ Closed PR [#184](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/184) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+1. 🎉 Merged PR [#37](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/37) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+2. 💪 Opened PR [#37](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/37) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+3. ℹ️ Assigned PR [#37](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/37) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+4. ❌ Closed PR [#67](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/67) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+5. ❌ Closed PR [#66](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/66) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
