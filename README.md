@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#103](https://github.com/Mohammed0572/VotingSystem/pull/103) in [Mohammed0572/VotingSystem](https://github.com/Mohammed0572/VotingSystem)
-2. 🎉 Merged PR [#23](https://github.com/toxicbishop/Student-Marks-Management/pull/23) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-3. 💪 Opened PR [#23](https://github.com/toxicbishop/Student-Marks-Management/pull/23) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-4. ❌ Closed PR [#16](https://github.com/toxicbishop/Student-Marks-Management/pull/16) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-5. ❌ Closed PR [#15](https://github.com/toxicbishop/Student-Marks-Management/pull/15) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+1. ❌ Closed PR [#17](https://github.com/toxicbishop/markdroid/pull/17) in [toxicbishop/markdroid](https://github.com/toxicbishop/markdroid)
+2. ❌ Closed PR [#16](https://github.com/toxicbishop/markdroid/pull/16) in [toxicbishop/markdroid](https://github.com/toxicbishop/markdroid)
+3. ❌ Closed PR [#15](https://github.com/toxicbishop/markdroid/pull/15) in [toxicbishop/markdroid](https://github.com/toxicbishop/markdroid)
+4. ❌ Closed PR [#44](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/44) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+5. ❌ Closed PR [#43](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/43) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
