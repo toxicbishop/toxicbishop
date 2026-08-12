@@ -174,9 +174,9 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/toxicbishop/Web-Scraper/pull/32) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-2. 💪 Opened PR [#32](https://github.com/toxicbishop/Web-Scraper/pull/32) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-3. ❌ Closed PR [#75](https://github.com/toxicbishop/Crypt-Vault/pull/75) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
+1. ❌ Closed PR [#96](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/96) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+2. 🎉 Merged PR [#32](https://github.com/toxicbishop/Web-Scraper/pull/32) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+3. 💪 Opened PR [#32](https://github.com/toxicbishop/Web-Scraper/pull/32) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
 4. 🎉 Merged PR [#138](https://github.com/toxicbishop/DSA-Study-Hub/pull/138) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 5. 💪 Opened PR [#138](https://github.com/toxicbishop/DSA-Study-Hub/pull/138) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
