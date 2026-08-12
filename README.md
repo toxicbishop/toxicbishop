@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#75](https://github.com/toxicbishop/Crypt-Vault/pull/75) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
-2. 🎉 Merged PR [#138](https://github.com/toxicbishop/DSA-Study-Hub/pull/138) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. 💪 Opened PR [#138](https://github.com/toxicbishop/DSA-Study-Hub/pull/138) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. ❌ Closed PR [#23](https://github.com/toxicbishop/Mac-Portfolio/pull/23) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
-5. ❌ Closed PR [#22](https://github.com/toxicbishop/Mac-Portfolio/pull/22) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
+1. 🎉 Merged PR [#32](https://github.com/toxicbishop/Web-Scraper/pull/32) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+2. 💪 Opened PR [#32](https://github.com/toxicbishop/Web-Scraper/pull/32) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+3. ❌ Closed PR [#75](https://github.com/toxicbishop/Crypt-Vault/pull/75) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
+4. 🎉 Merged PR [#138](https://github.com/toxicbishop/DSA-Study-Hub/pull/138) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. 💪 Opened PR [#138](https://github.com/toxicbishop/DSA-Study-Hub/pull/138) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
