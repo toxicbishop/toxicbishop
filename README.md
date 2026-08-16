@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/memer0/Neotic/pull/114#issuecomment-5305580141) in [memer0/Neotic](https://github.com/memer0/Neotic)
-2. ❌ Closed PR [#114](https://github.com/memer0/Neotic/pull/114) in [memer0/Neotic](https://github.com/memer0/Neotic)
-3. ❌ Closed PR [#199](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/199) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-4. ❌ Closed PR [#198](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/198) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-5. ❌ Closed PR [#197](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/197) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+1. ❌ Closed PR [#25](https://github.com/toxicbishop/Student-Marks-Management/pull/25) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+2. ❌ Closed PR [#26](https://github.com/toxicbishop/Student-Marks-Management/pull/26) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+3. ❌ Closed PR [#24](https://github.com/toxicbishop/Student-Marks-Management/pull/24) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+4. ❌ Closed PR [#27](https://github.com/toxicbishop/Student-Marks-Management/pull/27) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+5. ❌ Closed PR [#16](https://github.com/toxicbishop/Hand-Gesture-Puzzle/pull/16) in [toxicbishop/Hand-Gesture-Puzzle](https://github.com/toxicbishop/Hand-Gesture-Puzzle)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
