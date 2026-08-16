@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1 - Initial Release](https://github.com/abhintr2006/DSA/releases/tag/v0.0.1) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-2. 🔒 Closed issue [#28](https://github.com/abhintr2006/DSA/issues/28) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-3. ℹ️ Assigned issue [#28](https://github.com/abhintr2006/DSA/issues/28) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-4. ❗ Opened issue [#28](https://github.com/abhintr2006/DSA/issues/28) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-5. ❌ Closed PR [#96](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/96) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+1. 🗣 Commented on [#114](https://github.com/memer0/Neotic/pull/114#issuecomment-5305580141) in [memer0/Neotic](https://github.com/memer0/Neotic)
+2. ❌ Closed PR [#114](https://github.com/memer0/Neotic/pull/114) in [memer0/Neotic](https://github.com/memer0/Neotic)
+3. ❌ Closed PR [#199](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/199) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+4. ❌ Closed PR [#198](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/198) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+5. ❌ Closed PR [#197](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/197) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
