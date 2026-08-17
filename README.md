@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#119](https://github.com/memer0/Neotic/issues/119) in [memer0/Neotic](https://github.com/memer0/Neotic)
-2. ❗ Opened issue [#119](https://github.com/memer0/Neotic/issues/119) in [memer0/Neotic](https://github.com/memer0/Neotic)
-3. ℹ️ Assigned issue [#119](https://github.com/memer0/Neotic/issues/119) in [memer0/Neotic](https://github.com/memer0/Neotic)
-4. 🎉 Merged PR [#118](https://github.com/memer0/Neotic/pull/118) in [memer0/Neotic](https://github.com/memer0/Neotic)
-5. 💪 Opened PR [#118](https://github.com/memer0/Neotic/pull/118) in [memer0/Neotic](https://github.com/memer0/Neotic)
+1. 🔒 Closed issue [#159](https://github.com/toxicbishop/DSA-Study-Hub/issues/159) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 🔒 Closed issue [#158](https://github.com/toxicbishop/DSA-Study-Hub/issues/158) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. 🔒 Closed issue [#157](https://github.com/toxicbishop/DSA-Study-Hub/issues/157) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. 🔒 Closed issue [#156](https://github.com/toxicbishop/DSA-Study-Hub/issues/156) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. 🔒 Closed issue [#155](https://github.com/toxicbishop/DSA-Study-Hub/issues/155) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
