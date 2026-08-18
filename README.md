@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/toxicbishop/Portfolio-4/pull/16) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-2. 💪 Opened PR [#16](https://github.com/toxicbishop/Portfolio-4/pull/16) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-3. 🎉 Merged PR [#15](https://github.com/toxicbishop/Portfolio-4/pull/15) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-4. ℹ️ Reopened PR [#15](https://github.com/toxicbishop/Portfolio-4/pull/15) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-5. ❌ Closed PR [#15](https://github.com/toxicbishop/Portfolio-4/pull/15) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+1. 🎉 Merged PR [#17](https://github.com/toxicbishop/Portfolio-4/pull/17) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+2. ℹ️ Assigned PR [#17](https://github.com/toxicbishop/Portfolio-4/pull/17) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+3. 💪 Opened PR [#17](https://github.com/toxicbishop/Portfolio-4/pull/17) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+4. 🎉 Merged PR [#16](https://github.com/toxicbishop/Portfolio-4/pull/16) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+5. 💪 Opened PR [#16](https://github.com/toxicbishop/Portfolio-4/pull/16) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
