@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#220](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/220) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-2. 🔒 Closed issue [#219](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/219) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-3. 🔒 Closed issue [#218](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/218) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-4. 🔒 Closed issue [#217](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/217) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-5. 🔒 Closed issue [#216](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/216) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+1. ❗ Opened issue [#222](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/222) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+2. 🔒 Closed issue [#220](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/220) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+3. 🎉 Merged PR [#221](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/221) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+4. ℹ️ Assigned PR [#221](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/221) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+5. 💪 Opened PR [#221](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/221) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
