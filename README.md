@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#223](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/223) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-2. 🔒 Closed issue [#222](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/222) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-3. ℹ️ Assigned PR [#223](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/223) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-4. 💪 Opened PR [#223](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/223) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-5. ❗ Opened issue [#222](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/222) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+1. 🎉 Merged PR [#224](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/224) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+2. ℹ️ Assigned PR [#224](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/224) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+3. 💪 Opened PR [#224](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/224) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+4. 🎉 Merged PR [#223](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/223) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+5. 🔒 Closed issue [#222](https://github.com/toxicbishop/KSSEM-College-ERP-System/issues/222) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
