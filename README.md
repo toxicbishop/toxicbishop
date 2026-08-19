@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/toxicbishop/8-Bit-UI/pull/15) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-2. ℹ️ Assigned PR [#15](https://github.com/toxicbishop/8-Bit-UI/pull/15) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-3. 💪 Opened PR [#15](https://github.com/toxicbishop/8-Bit-UI/pull/15) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-4. 🎉 Merged PR [#15](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/15) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
-5. 💪 Opened PR [#15](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/15) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
+1. ℹ️ Assigned PR [#16](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/16) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
+2. 🎉 Merged PR [#16](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/16) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
+3. 💪 Opened PR [#16](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/16) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
+4. 🎉 Merged PR [#15](https://github.com/toxicbishop/8-Bit-UI/pull/15) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
+5. ℹ️ Assigned PR [#15](https://github.com/toxicbishop/8-Bit-UI/pull/15) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
