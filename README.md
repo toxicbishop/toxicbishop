@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#225](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/225) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-2. ❌ Closed PR [#59](https://github.com/Ashvinigowda/civictracker/pull/59) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
-3. ❌ Closed PR [#19](https://github.com/toxicbishop/markdroid/pull/19) in [toxicbishop/markdroid](https://github.com/toxicbishop/markdroid)
-4. ❌ Closed PR [#18](https://github.com/toxicbishop/markdroid/pull/18) in [toxicbishop/markdroid](https://github.com/toxicbishop/markdroid)
-5. 🎉 Merged PR [#81](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/81) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+1. 🎉 Merged PR [#15](https://github.com/toxicbishop/8-Bit-UI/pull/15) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
+2. ℹ️ Assigned PR [#15](https://github.com/toxicbishop/8-Bit-UI/pull/15) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
+3. 💪 Opened PR [#15](https://github.com/toxicbishop/8-Bit-UI/pull/15) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
+4. 🎉 Merged PR [#15](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/15) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
+5. 💪 Opened PR [#15](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/15) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
