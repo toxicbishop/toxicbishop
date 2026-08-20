@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/toxicbishop/Weather-ascii/pull/27) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
-2. ❌ Closed PR [#26](https://github.com/toxicbishop/Weather-ascii/pull/26) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
-3. ❌ Closed PR [#25](https://github.com/toxicbishop/Weather-ascii/pull/25) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
-4. ❌ Closed PR [#28](https://github.com/toxicbishop/Weather-ascii/pull/28) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
-5. 🎉 Merged PR [#7](https://github.com/toxicbishop/Poke-Fetch/pull/7) in [toxicbishop/Poke-Fetch](https://github.com/toxicbishop/Poke-Fetch)
+1. 💪 Opened PR [#33](https://github.com/toxicbishop/Chain-of-Thought/pull/33) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+2. 🎉 Merged PR [#33](https://github.com/abhintr2006/DSA/pull/33) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+3. 💪 Opened PR [#33](https://github.com/abhintr2006/DSA/pull/33) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+4. ❌ Closed PR [#32](https://github.com/abhintr2006/DSA/pull/32) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+5. ❌ Closed PR [#29](https://github.com/abhintr2006/DSA/pull/29) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
