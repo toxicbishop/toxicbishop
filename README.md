@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/toxicbishop/Mac-Portfolio/pull/29) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
-2. 💪 Opened PR [#29](https://github.com/toxicbishop/Mac-Portfolio/pull/29) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
-3. ❌ Closed PR [#28](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/28) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
-4. ❌ Closed PR [#26](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/26) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
-5. ❌ Closed PR [#27](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/27) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
+1. ❌ Closed PR [#27](https://github.com/toxicbishop/Weather-ascii/pull/27) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+2. ❌ Closed PR [#26](https://github.com/toxicbishop/Weather-ascii/pull/26) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+3. ❌ Closed PR [#25](https://github.com/toxicbishop/Weather-ascii/pull/25) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+4. ❌ Closed PR [#28](https://github.com/toxicbishop/Weather-ascii/pull/28) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+5. 🎉 Merged PR [#7](https://github.com/toxicbishop/Poke-Fetch/pull/7) in [toxicbishop/Poke-Fetch](https://github.com/toxicbishop/Poke-Fetch)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
