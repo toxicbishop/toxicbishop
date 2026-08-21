@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/mit0506/expense-track/pull/56) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
-2. ℹ️ Assigned PR [#56](https://github.com/mit0506/expense-track/pull/56) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
-3. 💪 Opened PR [#56](https://github.com/mit0506/expense-track/pull/56) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
-4. 🎉 Merged PR [#33](https://github.com/toxicbishop/Chain-of-Thought/pull/33) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
-5. 💪 Opened PR [#33](https://github.com/toxicbishop/Chain-of-Thought/pull/33) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+1. ℹ️ Assigned PR [#85](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/85) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+2. ❌ Closed PR [#83](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/83) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+3. 🗣 Commented on [#83](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/83#issuecomment-5366044395) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+4. 🗣 Commented on [#82](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/82#issuecomment-5366029241) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+5. ❌ Closed PR [#82](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/82) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
