@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/mit0506/expense-track/pull/60#issuecomment-5371307569) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
-2. ❌ Closed PR [#60](https://github.com/mit0506/expense-track/pull/60) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
-3. 🎉 Merged PR [#59](https://github.com/mit0506/expense-track/pull/59) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
-4. 💪 Opened PR [#59](https://github.com/mit0506/expense-track/pull/59) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
-5. ℹ️ Assigned PR [#59](https://github.com/mit0506/expense-track/pull/59) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
+1. 🎉 Merged PR [#61](https://github.com/mit0506/expense-track/pull/61) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
+2. 💪 Opened PR [#61](https://github.com/mit0506/expense-track/pull/61) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
+3. 🗣 Commented on [#60](https://github.com/mit0506/expense-track/pull/60#issuecomment-5371307569) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
+4. ❌ Closed PR [#60](https://github.com/mit0506/expense-track/pull/60) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
+5. 🎉 Merged PR [#59](https://github.com/mit0506/expense-track/pull/59) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
