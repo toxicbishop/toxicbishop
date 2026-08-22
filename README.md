@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/4) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-2. 🎉 Merged PR [#7](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/7) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-3. 💪 Opened PR [#7](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/7) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-4. ℹ️ Assigned PR [#7](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/7) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-5. 🎉 Merged PR [#6](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/6) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+1. 🎉 Merged PR [#8](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/8) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+2. ℹ️ Assigned PR [#8](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/8) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+3. 💪 Opened PR [#8](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/8) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+4. ❌ Closed PR [#4](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/4) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+5. 🎉 Merged PR [#7](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/7) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
