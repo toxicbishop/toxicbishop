@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/toxicbishop/Portfolio-2/pull/22) in [toxicbishop/Portfolio-2](https://github.com/toxicbishop/Portfolio-2)
-2. 💪 Opened PR [#22](https://github.com/toxicbishop/Portfolio-2/pull/22) in [toxicbishop/Portfolio-2](https://github.com/toxicbishop/Portfolio-2)
-3. ❌ Closed PR [#51](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/51) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-4. ❌ Closed PR [#52](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/52) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-5. ❌ Closed PR [#122](https://github.com/Aryan-Kumar-91/Neotic/pull/122) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+1. 🎉 Merged PR [#9](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/9) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+2. 💪 Opened PR [#9](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/9) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+3. ℹ️ Assigned PR [#9](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/9) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+4. 🎉 Merged PR [#22](https://github.com/toxicbishop/Portfolio-2/pull/22) in [toxicbishop/Portfolio-2](https://github.com/toxicbishop/Portfolio-2)
+5. 💪 Opened PR [#22](https://github.com/toxicbishop/Portfolio-2/pull/22) in [toxicbishop/Portfolio-2](https://github.com/toxicbishop/Portfolio-2)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
