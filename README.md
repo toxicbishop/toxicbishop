@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#10](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/10) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-2. 🎉 Merged PR [#10](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/10) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-3. 💪 Opened PR [#10](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/10) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-4. 🎉 Merged PR [#9](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/9) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-5. 💪 Opened PR [#9](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/9) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+1. ❌ Closed PR [#233](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/233) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+2. ❌ Closed PR [#232](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/232) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+3. ❌ Closed PR [#231](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/231) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+4. ❌ Closed PR [#229](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/229) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+5. ❌ Closed PR [#230](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/230) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
