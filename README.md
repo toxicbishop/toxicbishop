@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#113](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/113) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-2. 🎉 Merged PR [#113](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/113) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-3. 💪 Opened PR [#113](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/113) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-4. ❌ Closed PR [#172](https://github.com/toxicbishop/DSA-Study-Hub/pull/172) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. ❌ Closed PR [#34](https://github.com/abhintr2006/DSA/pull/34) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+1. ❌ Closed PR [#174](https://github.com/toxicbishop/DSA-Study-Hub/pull/174) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. ❌ Closed PR [#171](https://github.com/toxicbishop/DSA-Study-Hub/pull/171) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. ❌ Closed PR [#173](https://github.com/toxicbishop/DSA-Study-Hub/pull/173) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. ❌ Closed PR [#170](https://github.com/toxicbishop/DSA-Study-Hub/pull/170) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. ❌ Closed PR [#169](https://github.com/toxicbishop/DSA-Study-Hub/pull/169) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
