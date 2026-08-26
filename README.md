@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#174](https://github.com/toxicbishop/DSA-Study-Hub/pull/174) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. ❌ Closed PR [#171](https://github.com/toxicbishop/DSA-Study-Hub/pull/171) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. ❌ Closed PR [#173](https://github.com/toxicbishop/DSA-Study-Hub/pull/173) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. ❌ Closed PR [#170](https://github.com/toxicbishop/DSA-Study-Hub/pull/170) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. ❌ Closed PR [#169](https://github.com/toxicbishop/DSA-Study-Hub/pull/169) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. 🎉 Merged PR [#9](https://github.com/srushtiv83-ux/RESQLINK/pull/9) in [srushtiv83-ux/RESQLINK](https://github.com/srushtiv83-ux/RESQLINK)
+2. 💪 Opened PR [#9](https://github.com/srushtiv83-ux/RESQLINK/pull/9) in [srushtiv83-ux/RESQLINK](https://github.com/srushtiv83-ux/RESQLINK)
+3. ❌ Closed PR [#174](https://github.com/toxicbishop/DSA-Study-Hub/pull/174) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. ❌ Closed PR [#171](https://github.com/toxicbishop/DSA-Study-Hub/pull/171) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. ❌ Closed PR [#173](https://github.com/toxicbishop/DSA-Study-Hub/pull/173) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
