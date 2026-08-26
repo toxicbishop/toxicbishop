@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/srushtiv83-ux/RESQLINK/pull/19) in [srushtiv83-ux/RESQLINK](https://github.com/srushtiv83-ux/RESQLINK)
-2. 💪 Opened PR [#19](https://github.com/srushtiv83-ux/RESQLINK/pull/19) in [srushtiv83-ux/RESQLINK](https://github.com/srushtiv83-ux/RESQLINK)
-3. 🎉 Merged PR [#18](https://github.com/srushtiv83-ux/RESQLINK/pull/18) in [srushtiv83-ux/RESQLINK](https://github.com/srushtiv83-ux/RESQLINK)
-4. 💪 Opened PR [#18](https://github.com/srushtiv83-ux/RESQLINK/pull/18) in [srushtiv83-ux/RESQLINK](https://github.com/srushtiv83-ux/RESQLINK)
-5. 🎉 Merged PR [#9](https://github.com/srushtiv83-ux/RESQLINK/pull/9) in [srushtiv83-ux/RESQLINK](https://github.com/srushtiv83-ux/RESQLINK)
+1. 🎉 Merged PR [#19](https://github.com/abhintr2006/RESQLINK/pull/19) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+2. 💪 Opened PR [#19](https://github.com/abhintr2006/RESQLINK/pull/19) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+3. 🎉 Merged PR [#18](https://github.com/abhintr2006/RESQLINK/pull/18) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+4. 💪 Opened PR [#18](https://github.com/abhintr2006/RESQLINK/pull/18) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+5. 🎉 Merged PR [#9](https://github.com/abhintr2006/RESQLINK/pull/9) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
