@@ -198,4 +198,3 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/toxicbishop/toxicbishop/output/pacman-contribution-graph-dark.svg" width="100%">
   </picture>
 </div>
-<!-- GITLAB_REMOVE_END -->
