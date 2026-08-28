@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/114) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-2. ℹ️ Assigned PR [#114](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/114) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-3. 💪 Opened PR [#114](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/114) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-4. 🎉 Merged PR [#123](https://github.com/Aryan-Kumar-91/Neotic/pull/123) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-5. ℹ️ Assigned PR [#123](https://github.com/Aryan-Kumar-91/Neotic/pull/123) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+1. 🎉 Merged PR [#100](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/100) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+2. ❌ Closed PR [#99](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/99) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+3. ℹ️ Assigned PR [#100](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/100) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+4. 💪 Opened PR [#100](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/100) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+5. 🎉 Merged PR [#114](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/114) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
