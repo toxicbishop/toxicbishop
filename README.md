@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/toxicbishop/Web-Scraper/pull/47) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-2. ❌ Closed PR [#18](https://github.com/toxicbishop/Hand-Gesture-Puzzle/pull/18) in [toxicbishop/Hand-Gesture-Puzzle](https://github.com/toxicbishop/Hand-Gesture-Puzzle)
-3. ❌ Closed PR [#17](https://github.com/toxicbishop/Hand-Gesture-Puzzle/pull/17) in [toxicbishop/Hand-Gesture-Puzzle](https://github.com/toxicbishop/Hand-Gesture-Puzzle)
-4. ❌ Closed PR [#94](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/94) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-5. ❌ Closed PR [#92](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/92) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+1. ❌ Closed PR [#20](https://github.com/toxicbishop/nanoGPT/pull/20) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+2. ❌ Closed PR [#19](https://github.com/toxicbishop/nanoGPT/pull/19) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+3. ❌ Closed PR [#46](https://github.com/toxicbishop/Web-Scraper/pull/46) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+4. ❌ Closed PR [#44](https://github.com/toxicbishop/Web-Scraper/pull/44) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+5. ❌ Closed PR [#45](https://github.com/toxicbishop/Web-Scraper/pull/45) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
