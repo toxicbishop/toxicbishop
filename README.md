@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/101) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
-2. ℹ️ Assigned PR [#101](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/101) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
-3. 🎉 Merged PR [#100](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/100) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
-4. ❌ Closed PR [#99](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/99) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
-5. ℹ️ Assigned PR [#100](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/100) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+1. 💪 Opened PR [#47](https://github.com/toxicbishop/Web-Scraper/pull/47) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+2. ❌ Closed PR [#18](https://github.com/toxicbishop/Hand-Gesture-Puzzle/pull/18) in [toxicbishop/Hand-Gesture-Puzzle](https://github.com/toxicbishop/Hand-Gesture-Puzzle)
+3. ❌ Closed PR [#17](https://github.com/toxicbishop/Hand-Gesture-Puzzle/pull/17) in [toxicbishop/Hand-Gesture-Puzzle](https://github.com/toxicbishop/Hand-Gesture-Puzzle)
+4. ❌ Closed PR [#94](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/94) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+5. ❌ Closed PR [#92](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/92) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
