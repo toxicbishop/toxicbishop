@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/120) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-2. ℹ️ Assigned PR [#120](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/120) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-3. 💪 Opened PR [#120](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/120) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-4. ❌ Closed PR [#20](https://github.com/toxicbishop/nanoGPT/pull/20) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
-5. ❌ Closed PR [#19](https://github.com/toxicbishop/nanoGPT/pull/19) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+1. 🎉 Merged PR [#31](https://github.com/abhintr2006/RESQLINK/pull/31) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+2. ℹ️ Assigned PR [#31](https://github.com/abhintr2006/RESQLINK/pull/31) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+3. 💪 Opened PR [#31](https://github.com/abhintr2006/RESQLINK/pull/31) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+4. 🎉 Merged PR [#120](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/120) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+5. ℹ️ Assigned PR [#120](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/120) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
