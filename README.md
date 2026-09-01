@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/abhintr2006/RESQLINK/pull/31) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-2. ℹ️ Assigned PR [#31](https://github.com/abhintr2006/RESQLINK/pull/31) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-3. 💪 Opened PR [#31](https://github.com/abhintr2006/RESQLINK/pull/31) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-4. 🎉 Merged PR [#120](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/120) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-5. ℹ️ Assigned PR [#120](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/120) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+1. 💪 Opened PR [#122](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/122) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+2. ℹ️ Assigned PR [#122](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/122) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+3. ❌ Closed PR [#54](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/54) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+4. ❌ Closed PR [#55](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/55) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+5. ❌ Closed PR [#53](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/53) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
