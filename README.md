@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#123](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/123) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-2. ℹ️ Assigned PR [#123](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/123) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-3. 🎉 Merged PR [#122](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/122) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-4. ❌ Closed PR [#98](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/98) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-5. ❌ Closed PR [#96](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/96) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+1. 🎉 Merged PR [#124](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/124) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+2. 💪 Opened PR [#124](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/124) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+3. 🎉 Merged PR [#123](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/123) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+4. 💪 Opened PR [#123](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/123) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+5. ℹ️ Assigned PR [#123](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/123) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
