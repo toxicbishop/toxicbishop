@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#128](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/128) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-2. ❗ Opened issue [#128](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/128) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-3. ℹ️ Assigned issue [#127](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/127) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-4. ❗ Opened issue [#127](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/127) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-5. ❗ Opened issue [#126](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/126) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+1. 🗣 Commented on [#32](https://github.com/abhintr2006/RESQLINK/pull/32#issuecomment-5511734691) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+2. ❌ Closed PR [#32](https://github.com/abhintr2006/RESQLINK/pull/32) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+3. ℹ️ Assigned issue [#128](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/128) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+4. ❗ Opened issue [#128](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/128) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+5. ℹ️ Assigned issue [#127](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/127) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
