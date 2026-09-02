@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/124) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-2. 💪 Opened PR [#124](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/124) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-3. 🎉 Merged PR [#123](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/123) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-4. 💪 Opened PR [#123](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/123) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-5. ℹ️ Assigned PR [#123](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/123) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+1. ℹ️ Assigned issue [#128](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/128) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+2. ❗ Opened issue [#128](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/128) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+3. ℹ️ Assigned issue [#127](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/127) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+4. ❗ Opened issue [#127](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/127) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+5. ❗ Opened issue [#126](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/126) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
