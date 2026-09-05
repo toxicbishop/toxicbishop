@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0 - RESQLINK: AI-Powered Citizen Emergency Assistance & Dispatch Platform](https://github.com/abhintr2006/RESQLINK/releases/tag/v.0.1.0) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-2. 🎉 Merged PR [#41](https://github.com/abhintr2006/RESQLINK/pull/41) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-3. ℹ️ Assigned PR [#41](https://github.com/abhintr2006/RESQLINK/pull/41) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-4. 💪 Opened PR [#41](https://github.com/abhintr2006/RESQLINK/pull/41) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-5. 🎉 Merged PR [#23](https://github.com/toxicbishop/LedgerGuard/pull/23) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+1. ❌ Closed PR [#33](https://github.com/toxicbishop/LedgerGuard/pull/33) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+2. ❌ Closed PR [#32](https://github.com/toxicbishop/LedgerGuard/pull/32) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+3. ℹ️ Assigned PR [#35](https://github.com/toxicbishop/LedgerGuard/pull/35) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+4. 🎉 Merged PR [#35](https://github.com/toxicbishop/LedgerGuard/pull/35) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+5. 💪 Opened PR [#35](https://github.com/toxicbishop/LedgerGuard/pull/35) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
