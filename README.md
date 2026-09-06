@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#99](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/99) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-2. 🗣 Commented on [#99](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/99#issuecomment-5557107982) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-3. ❌ Closed PR [#177](https://github.com/toxicbishop/DSA-Study-Hub/pull/177) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. 🚀 Published release [v0.0.1 - Initial Prototype Pre-Release](https://github.com/Mohammed0572/Multimodel-Voting-System/releases/tag/v0.0.1) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-5. 🎉 Merged PR [#247](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/247) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+1. 🗣 Commented on [#186](https://github.com/toxicbishop/DSA-Study-Hub/pull/186#issuecomment-5557150291) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 🗣 Commented on [#186](https://github.com/toxicbishop/DSA-Study-Hub/pull/186#issuecomment-5557141229) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. 🗣 Commented on [#178](https://github.com/toxicbishop/DSA-Study-Hub/pull/178#issuecomment-5557141107) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. ❌ Closed PR [#99](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/99) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+5. 🗣 Commented on [#99](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/99#issuecomment-5557107982) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
