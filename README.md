@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#37](https://github.com/abhintr2006/DSA/pull/37) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-2. ❌ Closed PR [#246](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/246) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-3. ❌ Closed PR [#245](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/245) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-4. ❌ Closed PR [#242](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/242) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-5. ❌ Closed PR [#244](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/244) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+1. 🎉 Merged PR [#247](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/247) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+2. ℹ️ Assigned PR [#247](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/247) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+3. 💪 Opened PR [#247](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/247) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+4. ❌ Closed PR [#37](https://github.com/abhintr2006/DSA/pull/37) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+5. ❌ Closed PR [#246](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/246) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
