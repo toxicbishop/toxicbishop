@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/toxicbishop/DSA-Study-Hub/pull/186#issuecomment-5557150291) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. 🗣 Commented on [#186](https://github.com/toxicbishop/DSA-Study-Hub/pull/186#issuecomment-5557141229) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. 🗣 Commented on [#178](https://github.com/toxicbishop/DSA-Study-Hub/pull/178#issuecomment-5557141107) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. ❌ Closed PR [#99](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/99) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-5. 🗣 Commented on [#99](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/99#issuecomment-5557107982) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+1. 🎉 Merged PR [#187](https://github.com/toxicbishop/DSA-Study-Hub/pull/187) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 💪 Opened PR [#187](https://github.com/toxicbishop/DSA-Study-Hub/pull/187) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. 🗣 Commented on [#186](https://github.com/toxicbishop/DSA-Study-Hub/pull/186#issuecomment-5557150291) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. 🗣 Commented on [#186](https://github.com/toxicbishop/DSA-Study-Hub/pull/186#issuecomment-5557141229) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. 🗣 Commented on [#178](https://github.com/toxicbishop/DSA-Study-Hub/pull/178#issuecomment-5557141107) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
