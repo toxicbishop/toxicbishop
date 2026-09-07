@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/60) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-2. ℹ️ Assigned PR [#60](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/60) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-3. ❌ Closed PR [#56](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/56) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-4. 🎉 Merged PR [#59](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/59) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-5. ℹ️ Assigned PR [#59](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/59) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+1. 🎉 Merged PR [#17](https://github.com/toxicbishop/Location-Tracker/pull/17) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+2. ℹ️ Assigned PR [#17](https://github.com/toxicbishop/Location-Tracker/pull/17) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+3. 💪 Opened PR [#17](https://github.com/toxicbishop/Location-Tracker/pull/17) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+4. 🎉 Merged PR [#18](https://github.com/toxicbishop/8-Bit-UI/pull/18) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
+5. 💪 Opened PR [#18](https://github.com/toxicbishop/8-Bit-UI/pull/18) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
