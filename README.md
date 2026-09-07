@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/toxicbishop/Chain-of-Thought/pull/34#issuecomment-5570330794) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
-2. ❌ Closed PR [#34](https://github.com/toxicbishop/Chain-of-Thought/pull/34) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
-3. 🎉 Merged PR [#104](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/104) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
-4. 💪 Opened PR [#104](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/104) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
-5. ℹ️ Assigned PR [#104](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/104) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+1. 💪 Opened PR [#60](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/60) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+2. ℹ️ Assigned PR [#60](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/60) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+3. ❌ Closed PR [#56](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/56) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+4. 🎉 Merged PR [#59](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/59) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+5. ℹ️ Assigned PR [#59](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/59) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
