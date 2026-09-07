@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/abhintr2006/RESQLINK/pull/43) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-2. ℹ️ Assigned PR [#43](https://github.com/abhintr2006/RESQLINK/pull/43) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-3. 💪 Opened PR [#43](https://github.com/abhintr2006/RESQLINK/pull/43) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-4. 🔒 Closed issue [#127](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/127) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-5. 🔒 Closed issue [#125](https://github.com/Mohammed0572/Multimodel-Voting-System/issues/125) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+1. 🗣 Commented on [#34](https://github.com/toxicbishop/Chain-of-Thought/pull/34#issuecomment-5570330794) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+2. ❌ Closed PR [#34](https://github.com/toxicbishop/Chain-of-Thought/pull/34) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+3. 🎉 Merged PR [#104](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/104) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+4. 💪 Opened PR [#104](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/104) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+5. ℹ️ Assigned PR [#104](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/104) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
