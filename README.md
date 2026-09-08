@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/abhintr2006/RESQLINK/pull/44) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-2. ℹ️ Assigned PR [#44](https://github.com/abhintr2006/RESQLINK/pull/44) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-3. 💪 Opened PR [#44](https://github.com/abhintr2006/RESQLINK/pull/44) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-4. 🎉 Merged PR [#17](https://github.com/toxicbishop/Location-Tracker/pull/17) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
-5. ℹ️ Assigned PR [#17](https://github.com/toxicbishop/Location-Tracker/pull/17) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+1. ❌ Closed PR [#30](https://github.com/toxicbishop/Weather-ascii/pull/30) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+2. 🎉 Merged PR [#31](https://github.com/toxicbishop/Weather-ascii/pull/31) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+3. 💪 Opened PR [#31](https://github.com/toxicbishop/Weather-ascii/pull/31) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+4. ℹ️ Assigned PR [#31](https://github.com/toxicbishop/Weather-ascii/pull/31) in [toxicbishop/Weather-ascii](https://github.com/toxicbishop/Weather-ascii)
+5. 🎉 Merged PR [#44](https://github.com/abhintr2006/RESQLINK/pull/44) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
