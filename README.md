@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#64](https://github.com/mit0506/expense-track/pull/64) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
-2. ❌ Closed PR [#34](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/34) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
-3. ❌ Closed PR [#32](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/32) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
-4. ❌ Closed PR [#33](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/33) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
-5. ❌ Closed PR [#31](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/31) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
+1. 🎉 Merged PR [#79](https://github.com/toxicbishop/Crypt-Vault/pull/79) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
+2. 💪 Opened PR [#79](https://github.com/toxicbishop/Crypt-Vault/pull/79) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
+3. ℹ️ Assigned PR [#79](https://github.com/toxicbishop/Crypt-Vault/pull/79) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
+4. ℹ️ Assigned PR [#64](https://github.com/mit0506/expense-track/pull/64) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
+5. ❌ Closed PR [#34](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/34) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
