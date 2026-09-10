@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#37](https://github.com/toxicbishop/Chain-of-Thought/pull/37) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
-2. 🎉 Merged PR [#38](https://github.com/toxicbishop/Chain-of-Thought/pull/38) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
-3. ℹ️ Assigned PR [#38](https://github.com/toxicbishop/Chain-of-Thought/pull/38) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
-4. 💪 Opened PR [#38](https://github.com/toxicbishop/Chain-of-Thought/pull/38) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
-5. 🎉 Merged PR [#36](https://github.com/toxicbishop/Chain-of-Thought/pull/36) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+1. 🗣 Commented on [#42](https://github.com/abhintr2006/DSA/pull/42#issuecomment-5613493461) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+2. 🗣 Commented on [#248](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/248#issuecomment-5613476278) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+3. ❌ Closed PR [#37](https://github.com/toxicbishop/Chain-of-Thought/pull/37) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+4. 🎉 Merged PR [#38](https://github.com/toxicbishop/Chain-of-Thought/pull/38) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+5. ℹ️ Assigned PR [#38](https://github.com/toxicbishop/Chain-of-Thought/pull/38) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
