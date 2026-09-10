@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/abhintr2006/DSA/pull/44#issuecomment-5620150856) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-2. 🗣 Commented on [#42](https://github.com/abhintr2006/DSA/pull/42#issuecomment-5620138899) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-3. 🗣 Commented on [#44](https://github.com/abhintr2006/DSA/pull/44#issuecomment-5620121841) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-4. 🗣 Commented on [#42](https://github.com/abhintr2006/DSA/pull/42#issuecomment-5613493461) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
-5. ❌ Closed PR [#37](https://github.com/toxicbishop/Chain-of-Thought/pull/37) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+1. 🎉 Merged PR [#40](https://github.com/toxicbishop/LedgerGuard/pull/40) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+2. 💪 Opened PR [#40](https://github.com/toxicbishop/LedgerGuard/pull/40) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+3. 🎉 Merged PR [#39](https://github.com/toxicbishop/LedgerGuard/pull/39) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+4. 💪 Opened PR [#39](https://github.com/toxicbishop/LedgerGuard/pull/39) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+5. ℹ️ Assigned PR [#39](https://github.com/toxicbishop/LedgerGuard/pull/39) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
