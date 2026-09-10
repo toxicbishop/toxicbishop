@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/20) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-2. ℹ️ Assigned PR [#20](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/20) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-3. 💪 Opened PR [#20](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/20) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-4. 🗣 Commented on [#16](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/16#issuecomment-5602958257) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-5. ❌ Closed PR [#16](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/16) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+1. 🎉 Merged PR [#36](https://github.com/toxicbishop/Chain-of-Thought/pull/36) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+2. 💪 Opened PR [#36](https://github.com/toxicbishop/Chain-of-Thought/pull/36) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+3. 🎉 Merged PR [#20](https://github.com/toxicbishop/Location-Tracker/pull/20) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+4. ℹ️ Assigned PR [#20](https://github.com/toxicbishop/Location-Tracker/pull/20) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+5. 💪 Opened PR [#20](https://github.com/toxicbishop/Location-Tracker/pull/20) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
