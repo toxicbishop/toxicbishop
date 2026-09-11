@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/abhintr2006/RESQLINK/pull/58) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-2. 💪 Opened PR [#58](https://github.com/abhintr2006/RESQLINK/pull/58) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-3. ℹ️ Assigned PR [#41](https://github.com/toxicbishop/LedgerGuard/pull/41) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
-4. 🎉 Merged PR [#41](https://github.com/toxicbishop/LedgerGuard/pull/41) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
-5. 💪 Opened PR [#41](https://github.com/toxicbishop/LedgerGuard/pull/41) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+1. 🎉 Merged PR [#59](https://github.com/abhintr2006/RESQLINK/pull/59) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+2. 💪 Opened PR [#59](https://github.com/abhintr2006/RESQLINK/pull/59) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+3. 🎉 Merged PR [#58](https://github.com/abhintr2006/RESQLINK/pull/58) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+4. 💪 Opened PR [#58](https://github.com/abhintr2006/RESQLINK/pull/58) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+5. ℹ️ Assigned PR [#41](https://github.com/toxicbishop/LedgerGuard/pull/41) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
