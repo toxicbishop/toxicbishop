@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#100](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/100) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-2. ❌ Closed PR [#101](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/101) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-3. ❌ Closed PR [#102](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/102) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-4. ❌ Closed PR [#103](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/103) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-5. ❌ Closed PR [#104](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/104) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+1. ℹ️ Assigned PR [#41](https://github.com/toxicbishop/LedgerGuard/pull/41) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+2. 🎉 Merged PR [#41](https://github.com/toxicbishop/LedgerGuard/pull/41) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+3. 💪 Opened PR [#41](https://github.com/toxicbishop/LedgerGuard/pull/41) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+4. ❌ Closed PR [#100](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/100) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+5. ❌ Closed PR [#101](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/101) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
