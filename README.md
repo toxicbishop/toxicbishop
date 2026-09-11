@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#200](https://github.com/toxicbishop/DSA-Study-Hub/pull/200) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. ℹ️ Assigned PR [#200](https://github.com/toxicbishop/DSA-Study-Hub/pull/200) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. 💪 Opened PR [#200](https://github.com/toxicbishop/DSA-Study-Hub/pull/200) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. 🎉 Merged PR [#40](https://github.com/toxicbishop/LedgerGuard/pull/40) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
-5. 💪 Opened PR [#40](https://github.com/toxicbishop/LedgerGuard/pull/40) in [toxicbishop/LedgerGuard](https://github.com/toxicbishop/LedgerGuard)
+1. 🎉 Merged PR [#201](https://github.com/toxicbishop/DSA-Study-Hub/pull/201) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. ❌ Closed PR [#78](https://github.com/toxicbishop/Crypt-Vault/pull/78) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
+3. 🎉 Merged PR [#80](https://github.com/toxicbishop/Crypt-Vault/pull/80) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
+4. ℹ️ Assigned PR [#201](https://github.com/toxicbishop/DSA-Study-Hub/pull/201) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. 💪 Opened PR [#201](https://github.com/toxicbishop/DSA-Study-Hub/pull/201) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
