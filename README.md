@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#201](https://github.com/toxicbishop/DSA-Study-Hub/pull/201) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. ❌ Closed PR [#78](https://github.com/toxicbishop/Crypt-Vault/pull/78) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
-3. 🎉 Merged PR [#80](https://github.com/toxicbishop/Crypt-Vault/pull/80) in [toxicbishop/Crypt-Vault](https://github.com/toxicbishop/Crypt-Vault)
-4. ℹ️ Assigned PR [#201](https://github.com/toxicbishop/DSA-Study-Hub/pull/201) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. 💪 Opened PR [#201](https://github.com/toxicbishop/DSA-Study-Hub/pull/201) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. ❌ Closed PR [#100](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/100) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+2. ❌ Closed PR [#101](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/101) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+3. ❌ Closed PR [#102](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/102) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+4. ❌ Closed PR [#103](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/103) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+5. ❌ Closed PR [#104](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/104) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
