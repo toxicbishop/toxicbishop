@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/abhintr2006/RESQLINK/pull/61) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-2. 💪 Opened PR [#61](https://github.com/abhintr2006/RESQLINK/pull/61) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-3. ℹ️ Assigned PR [#61](https://github.com/abhintr2006/RESQLINK/pull/61) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-4. 🎉 Merged PR [#60](https://github.com/abhintr2006/RESQLINK/pull/60) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-5. 💪 Opened PR [#60](https://github.com/abhintr2006/RESQLINK/pull/60) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+1. ℹ️ Assigned issue [#1](https://github.com/toxicbishop/skills-introduction-to-github/issues/1) in [toxicbishop/skills-introduction-to-github](https://github.com/toxicbishop/skills-introduction-to-github)
+2. 🔒 Closed issue [#1](https://github.com/toxicbishop/skills-introduction-to-github/issues/1) in [toxicbishop/skills-introduction-to-github](https://github.com/toxicbishop/skills-introduction-to-github)
+3. 🎉 Merged PR [#61](https://github.com/abhintr2006/RESQLINK/pull/61) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+4. 💪 Opened PR [#61](https://github.com/abhintr2006/RESQLINK/pull/61) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+5. ℹ️ Assigned PR [#61](https://github.com/abhintr2006/RESQLINK/pull/61) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
