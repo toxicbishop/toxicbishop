@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/toxicbishop/Portfolio-4/pull/29) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-2. ❌ Closed PR [#28](https://github.com/toxicbishop/Portfolio-4/pull/28) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-3. ❌ Closed PR [#30](https://github.com/toxicbishop/Portfolio-4/pull/30) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-4. ❌ Closed PR [#33](https://github.com/toxicbishop/Portfolio-4/pull/33) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-5. ❌ Closed PR [#32](https://github.com/toxicbishop/Portfolio-4/pull/32) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+1. ❌ Closed PR [#107](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/107) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+2. ℹ️ Reopened PR [#106](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/106) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+3. ❌ Closed PR [#106](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/106) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
+4. ❌ Closed PR [#29](https://github.com/toxicbishop/Portfolio-4/pull/29) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+5. ❌ Closed PR [#28](https://github.com/toxicbishop/Portfolio-4/pull/28) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
