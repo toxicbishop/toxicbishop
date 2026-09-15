@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com/toxicbishop/8-Bit-UI/pull/19) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-2. 🗣 Commented on [#19](https://github.com/toxicbishop/8-Bit-UI/pull/19#issuecomment-5661021614) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-3. 🎉 Merged PR [#20](https://github.com/toxicbishop/8-Bit-UI/pull/20) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-4. ℹ️ Assigned PR [#20](https://github.com/toxicbishop/8-Bit-UI/pull/20) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-5. 💪 Opened PR [#20](https://github.com/toxicbishop/8-Bit-UI/pull/20) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
+1. ❌ Closed PR [#203](https://github.com/toxicbishop/DSA-Study-Hub/pull/203) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. ❌ Closed PR [#208](https://github.com/toxicbishop/DSA-Study-Hub/pull/208) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. ❌ Closed PR [#19](https://github.com/toxicbishop/8-Bit-UI/pull/19) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
+4. 🗣 Commented on [#19](https://github.com/toxicbishop/8-Bit-UI/pull/19#issuecomment-5661021614) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
+5. 🎉 Merged PR [#20](https://github.com/toxicbishop/8-Bit-UI/pull/20) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
