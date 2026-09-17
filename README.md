@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#109](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/109) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-2. ❌ Closed PR [#108](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/108) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-3. ❌ Closed PR [#107](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/107) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-4. ❌ Closed PR [#106](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/106) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-5. ❌ Closed PR [#105](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/105) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+1. 🎉 Merged PR [#18](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/18) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
+2. 🎉 Merged PR [#19](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/19) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
+3. ❌ Closed PR [#17](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/17) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
+4. 💪 Opened PR [#19](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/19) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
+5. 💪 Opened PR [#18](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI/pull/18) in [toxicbishop/Customer-Behavior-Analysis-Power-BI](https://github.com/toxicbishop/Customer-Behavior-Analysis-Power-BI)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
