@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#67](https://github.com/Ashvinigowda/civictracker/pull/67) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
-2. ❌ Closed PR [#22](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/22) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-3. ❌ Closed PR [#21](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/21) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-4. 🎉 Merged PR [#23](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/23) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
-5. 💪 Opened PR [#23](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping/pull/23) in [toxicbishop/Surface-AQI-HCHO-Mapping](https://github.com/toxicbishop/Surface-AQI-HCHO-Mapping)
+1. 💪 Opened PR [#40](https://github.com/toxicbishop/Mac-Portfolio/pull/40) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
+2. ❌ Closed PR [#25](https://github.com/toxicbishop/nanoGPT/pull/25) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+3. 🎉 Merged PR [#26](https://github.com/toxicbishop/nanoGPT/pull/26) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+4. 💪 Opened PR [#26](https://github.com/toxicbishop/nanoGPT/pull/26) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
+5. ℹ️ Assigned PR [#26](https://github.com/toxicbishop/nanoGPT/pull/26) in [toxicbishop/nanoGPT](https://github.com/toxicbishop/nanoGPT)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
