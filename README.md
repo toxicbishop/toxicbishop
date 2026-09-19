@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/120) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-2. 💪 Opened PR [#120](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/120) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-3. ❌ Closed PR [#119](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/119) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-4. 🗣 Commented on [#119](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/119#issuecomment-5741674058) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
-5. 🎉 Merged PR [#40](https://github.com/toxicbishop/Mac-Portfolio/pull/40) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
+1. 🗣 Commented on [#66](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/66#issuecomment-5741913677) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+2. 🎉 Merged PR [#121](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/121) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+3. 💪 Opened PR [#121](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/121) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+4. 🎉 Merged PR [#120](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/120) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+5. 💪 Opened PR [#120](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/120) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
