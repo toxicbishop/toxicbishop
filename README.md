@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#145](https://github.com/Aryan-Kumar-91/Neotic/pull/145) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-2. 💪 Opened PR [#145](https://github.com/Aryan-Kumar-91/Neotic/pull/145) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-3. 🗣 Commented on [#144](https://github.com/Aryan-Kumar-91/Neotic/pull/144#issuecomment-5747402624) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-4. 🗣 Commented on [#66](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/66#issuecomment-5741913677) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-5. 🎉 Merged PR [#121](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/121) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+1. ❌ Closed PR [#137](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/137) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+2. ❌ Closed PR [#135](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/135) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+3. ❌ Closed PR [#136](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/136) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+4. ❌ Closed PR [#134](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/134) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+5. ❌ Closed PR [#133](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/133) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
