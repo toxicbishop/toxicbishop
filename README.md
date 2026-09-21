@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/39) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
-2. ❌ Closed PR [#38](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/38) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
-3. ❌ Closed PR [#37](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/37) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
-4. ❌ Closed PR [#36](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/36) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
-5. ❌ Closed PR [#35](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/35) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
+1. 🎉 Merged PR [#70](https://github.com/toxicbishop/Web-Scraper/pull/70) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+2. ℹ️ Assigned PR [#70](https://github.com/toxicbishop/Web-Scraper/pull/70) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+3. 💪 Opened PR [#70](https://github.com/toxicbishop/Web-Scraper/pull/70) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+4. ❌ Closed PR [#39](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/39) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
+5. ❌ Closed PR [#38](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/38) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
