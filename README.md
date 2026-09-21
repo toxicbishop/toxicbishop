@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#143](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/143) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-2. 🎉 Merged PR [#147](https://github.com/Aryan-Kumar-91/Neotic/pull/147) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-3. 💪 Opened PR [#147](https://github.com/Aryan-Kumar-91/Neotic/pull/147) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-4. 🎉 Merged PR [#146](https://github.com/Aryan-Kumar-91/Neotic/pull/146) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-5. ℹ️ Assigned PR [#146](https://github.com/Aryan-Kumar-91/Neotic/pull/146) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+1. ❌ Closed PR [#39](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/39) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
+2. ❌ Closed PR [#38](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/38) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
+3. ❌ Closed PR [#37](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/37) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
+4. ❌ Closed PR [#36](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/36) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
+5. ❌ Closed PR [#35](https://github.com/toxicbishop/VITAL-Health-App-Kotlin/pull/35) in [toxicbishop/VITAL-Health-App-Kotlin](https://github.com/toxicbishop/VITAL-Health-App-Kotlin)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
