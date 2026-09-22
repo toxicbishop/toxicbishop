@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/toxicbishop/Web-Scraper/pull/72) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-2. 💪 Opened PR [#72](https://github.com/toxicbishop/Web-Scraper/pull/72) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-3. 🎉 Merged PR [#71](https://github.com/toxicbishop/Web-Scraper/pull/71) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-4. ℹ️ Assigned PR [#71](https://github.com/toxicbishop/Web-Scraper/pull/71) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-5. 💪 Opened PR [#71](https://github.com/toxicbishop/Web-Scraper/pull/71) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+1. ❌ Closed PR [#51](https://github.com/abhintr2006/DSA/pull/51) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+2. 🎉 Merged PR [#72](https://github.com/toxicbishop/Web-Scraper/pull/72) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+3. 💪 Opened PR [#72](https://github.com/toxicbishop/Web-Scraper/pull/72) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+4. 🎉 Merged PR [#71](https://github.com/toxicbishop/Web-Scraper/pull/71) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+5. ℹ️ Assigned PR [#71](https://github.com/toxicbishop/Web-Scraper/pull/71) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
