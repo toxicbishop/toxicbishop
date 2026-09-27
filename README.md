@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/toxicbishop/batch-dicom-to-jpg/pull/2) in [toxicbishop/batch-dicom-to-jpg](https://github.com/toxicbishop/batch-dicom-to-jpg)
-2. 💪 Opened PR [#2](https://github.com/toxicbishop/batch-dicom-to-jpg/pull/2) in [toxicbishop/batch-dicom-to-jpg](https://github.com/toxicbishop/batch-dicom-to-jpg)
-3. ℹ️ Assigned PR [#2](https://github.com/toxicbishop/batch-dicom-to-jpg/pull/2) in [toxicbishop/batch-dicom-to-jpg](https://github.com/toxicbishop/batch-dicom-to-jpg)
-4. ❌ Closed PR [#1](https://github.com/toxicbishop/batch-dicom-to-jpg/pull/1) in [toxicbishop/batch-dicom-to-jpg](https://github.com/toxicbishop/batch-dicom-to-jpg)
-5. ℹ️ Assigned PR [#69](https://github.com/Ashvinigowda/civictracker/pull/69) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
+1. ❌ Closed PR [#150](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/150) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+2. ❌ Closed PR [#151](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/151) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+3. ❌ Closed PR [#148](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/148) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+4. ❌ Closed PR [#152](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/152) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+5. ❌ Closed PR [#149](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/149) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
