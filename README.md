@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#69](https://github.com/Ashvinigowda/civictracker/pull/69) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
-2. ❌ Closed PR [#223](https://github.com/toxicbishop/DSA-Study-Hub/pull/223) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. ❌ Closed PR [#220](https://github.com/toxicbishop/DSA-Study-Hub/pull/220) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. ❌ Closed PR [#221](https://github.com/toxicbishop/DSA-Study-Hub/pull/221) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. ❌ Closed PR [#222](https://github.com/toxicbishop/DSA-Study-Hub/pull/222) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. 🎉 Merged PR [#2](https://github.com/toxicbishop/batch-dicom-to-jpg/pull/2) in [toxicbishop/batch-dicom-to-jpg](https://github.com/toxicbishop/batch-dicom-to-jpg)
+2. 💪 Opened PR [#2](https://github.com/toxicbishop/batch-dicom-to-jpg/pull/2) in [toxicbishop/batch-dicom-to-jpg](https://github.com/toxicbishop/batch-dicom-to-jpg)
+3. ℹ️ Assigned PR [#2](https://github.com/toxicbishop/batch-dicom-to-jpg/pull/2) in [toxicbishop/batch-dicom-to-jpg](https://github.com/toxicbishop/batch-dicom-to-jpg)
+4. ❌ Closed PR [#1](https://github.com/toxicbishop/batch-dicom-to-jpg/pull/1) in [toxicbishop/batch-dicom-to-jpg](https://github.com/toxicbishop/batch-dicom-to-jpg)
+5. ℹ️ Assigned PR [#69](https://github.com/Ashvinigowda/civictracker/pull/69) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
