@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#223](https://github.com/toxicbishop/DSA-Study-Hub/pull/223) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. ❌ Closed PR [#220](https://github.com/toxicbishop/DSA-Study-Hub/pull/220) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. ❌ Closed PR [#221](https://github.com/toxicbishop/DSA-Study-Hub/pull/221) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. ❌ Closed PR [#222](https://github.com/toxicbishop/DSA-Study-Hub/pull/222) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. ❌ Closed PR [#218](https://github.com/toxicbishop/DSA-Study-Hub/pull/218) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. ℹ️ Assigned PR [#69](https://github.com/Ashvinigowda/civictracker/pull/69) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
+2. ❌ Closed PR [#223](https://github.com/toxicbishop/DSA-Study-Hub/pull/223) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. ❌ Closed PR [#220](https://github.com/toxicbishop/DSA-Study-Hub/pull/220) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. ❌ Closed PR [#221](https://github.com/toxicbishop/DSA-Study-Hub/pull/221) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. ❌ Closed PR [#222](https://github.com/toxicbishop/DSA-Study-Hub/pull/222) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
