@@ -174,11 +174,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#40](https://github.com/toxicbishop/Portfolio-4/pull/40) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-2. ❌ Closed PR [#42](https://github.com/toxicbishop/Portfolio-4/pull/42) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-3. ❌ Closed PR [#41](https://github.com/toxicbishop/Portfolio-4/pull/41) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-4. ❌ Closed PR [#150](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/150) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-5. ❌ Closed PR [#151](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/151) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+1. 🎉 Merged PR [#154](https://github.com/Aryan-Kumar-91/Neotic/pull/154) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+2. 💪 Opened PR [#154](https://github.com/Aryan-Kumar-91/Neotic/pull/154) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+3. ℹ️ Assigned PR [#154](https://github.com/Aryan-Kumar-91/Neotic/pull/154) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+4. ❌ Closed PR [#40](https://github.com/toxicbishop/Portfolio-4/pull/40) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+5. ❌ Closed PR [#42](https://github.com/toxicbishop/Portfolio-4/pull/42) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
