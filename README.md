@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/toxicbishop/Portfolio-4/pull/5) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-2. ❌ Closed PR [#4](https://github.com/toxicbishop/Portfolio-4/pull/4) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-3. ❌ Closed PR [#3](https://github.com/toxicbishop/Portfolio-4/pull/3) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
-4. 🎉 Merged PR [#236](https://github.com/toxicbishop/DSA-Study-Hub/pull/236) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. 💪 Opened PR [#236](https://github.com/toxicbishop/DSA-Study-Hub/pull/236) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. 🗣 Commented on [#80](https://github.com/toxicbishop/Web-Scraper/pull/80#issuecomment-5884579983) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+2. 🗣 Commented on [#79](https://github.com/toxicbishop/Web-Scraper/pull/79#issuecomment-5884569602) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+3. ❌ Closed PR [#53](https://github.com/abhintr2006/DSA/pull/53) in [abhintr2006/DSA](https://github.com/abhintr2006/DSA)
+4. ❌ Closed PR [#5](https://github.com/toxicbishop/Portfolio-4/pull/5) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+5. ❌ Closed PR [#4](https://github.com/toxicbishop/Portfolio-4/pull/4) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
