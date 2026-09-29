@@ -121,6 +121,31 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<h3 align="center">Hackathons & Competitions 🏆</h3>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>🛰️ ISRO Bharatiya Antariksh Hackathon 2026</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Participant-00E5FF?style=flat-square&labelColor=000000" alt="Participant" />
+        <img src="https://img.shields.io/badge/Event-ISRO_BAH--2026-000000?style=flat-square&logoColor=00E5FF" alt="ISRO BAH-2026" />
+      </p>
+      <p><strong><a href="https://github.com/toxicbishop/VayuDrishti">VayuDrishti 💨</a></strong> — Satellite-derived Surface AQI estimation & TROPOMI HCHO hotspot detection/attribution over India using INSAT-3D, Sentinel-5P, ERA5 & ML.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=scikitlearn&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Remote_Sensing-000000?style=flat-square&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/INSAT--3D-000000?style=flat-square&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Sentinel--5P-000000?style=flat-square&logoColor=00E5FF" />
+      </p>
+      <a href="https://github.com/toxicbishop/VayuDrishti"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <h3 align="center">Languages and Tools 🛠:</h3>
 
 <p align="center"><strong>Languages</strong><br/>
