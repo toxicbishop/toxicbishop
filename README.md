@@ -131,7 +131,7 @@
         <img src="https://img.shields.io/badge/Status-Participant-00E5FF?style=flat-square&labelColor=000000" alt="Participant" />
         <img src="https://img.shields.io/badge/Event-ISRO_BAH--2026-000000?style=flat-square&logoColor=00E5FF" alt="ISRO BAH-2026" />
       </p>
-      <p><strong><a href="https://github.com/toxicbishop/VayuDrishti">VayuDrishti 💨</a></strong> — Satellite-derived Surface AQI estimation & TROPOMI HCHO hotspot detection/attribution over India using INSAT-3D, Sentinel-5P, ERA5 & ML.</p>
+      <p><strong><a href="https://github.com/toxicbishop/VayuDrishti">VayuDrishti</a></strong> — Satellite-derived Surface AQI estimation & TROPOMI HCHO hotspot detection/attribution over India using INSAT-3D, Sentinel-5P, ERA5 & ML.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=scikitlearn&logoColor=00E5FF" />
