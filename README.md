@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#150](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/150) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-2. ❌ Closed PR [#149](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/149) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-3. ❌ Closed PR [#148](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/148) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-4. ❌ Closed PR [#147](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/147) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-5. ❌ Closed PR [#146](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/146) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+1. ❌ Closed PR [#234](https://github.com/toxicbishop/DSA-Study-Hub/pull/234) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. ❌ Closed PR [#232](https://github.com/toxicbishop/DSA-Study-Hub/pull/232) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. ❌ Closed PR [#233](https://github.com/toxicbishop/DSA-Study-Hub/pull/233) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. ❌ Closed PR [#231](https://github.com/toxicbishop/DSA-Study-Hub/pull/231) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. 🗣 Commented on [#231](https://github.com/toxicbishop/DSA-Study-Hub/pull/231#issuecomment-5883941177) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
