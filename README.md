@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/toxicbishop/Portfolio-2/pull/24) in [toxicbishop/Portfolio-2](https://github.com/toxicbishop/Portfolio-2)
-2. ℹ️ Assigned PR [#24](https://github.com/toxicbishop/Portfolio-2/pull/24) in [toxicbishop/Portfolio-2](https://github.com/toxicbishop/Portfolio-2)
-3. 💪 Opened PR [#24](https://github.com/toxicbishop/Portfolio-2/pull/24) in [toxicbishop/Portfolio-2](https://github.com/toxicbishop/Portfolio-2)
-4. 🗣 Commented on [#80](https://github.com/toxicbishop/Web-Scraper/pull/80#issuecomment-5884579983) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-5. 🗣 Commented on [#79](https://github.com/toxicbishop/Web-Scraper/pull/79#issuecomment-5884569602) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+1. 🎉 Merged PR [#71](https://github.com/Ashvinigowda/civictracker/pull/71) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
+2. 💪 Opened PR [#71](https://github.com/Ashvinigowda/civictracker/pull/71) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
+3. ℹ️ Assigned PR [#71](https://github.com/Ashvinigowda/civictracker/pull/71) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
+4. 🎉 Merged PR [#24](https://github.com/toxicbishop/Portfolio-2/pull/24) in [toxicbishop/Portfolio-2](https://github.com/toxicbishop/Portfolio-2)
+5. ℹ️ Assigned PR [#24](https://github.com/toxicbishop/Portfolio-2/pull/24) in [toxicbishop/Portfolio-2](https://github.com/toxicbishop/Portfolio-2)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
