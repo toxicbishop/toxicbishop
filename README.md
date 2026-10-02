@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/toxicbishop/8-Bit-UI/pull/21) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-2. ℹ️ Assigned PR [#21](https://github.com/toxicbishop/8-Bit-UI/pull/21) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-3. 💪 Opened PR [#21](https://github.com/toxicbishop/8-Bit-UI/pull/21) in [toxicbishop/8-Bit-UI](https://github.com/toxicbishop/8-Bit-UI)
-4. ❌ Closed PR [#119](https://github.com/toxicbishop/Student-Stock-Market-Analysis/pull/119) in [toxicbishop/Student-Stock-Market-Analysis](https://github.com/toxicbishop/Student-Stock-Market-Analysis)
-5. 🎉 Merged PR [#71](https://github.com/Ashvinigowda/civictracker/pull/71) in [Ashvinigowda/civictracker](https://github.com/Ashvinigowda/civictracker)
+1. 🎉 Merged PR [#23](https://github.com/toxicbishop/Location-Tracker/pull/23) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+2. ℹ️ Assigned PR [#23](https://github.com/toxicbishop/Location-Tracker/pull/23) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+3. 🗣 Commented on [#22](https://github.com/toxicbishop/Location-Tracker/pull/22#issuecomment-5945102961) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+4. ❌ Closed PR [#22](https://github.com/toxicbishop/Location-Tracker/pull/22) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+5. 💪 Opened PR [#23](https://github.com/toxicbishop/Location-Tracker/pull/23) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
