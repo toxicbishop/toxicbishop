@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#238](https://github.com/toxicbishop/DSA-Study-Hub/pull/238) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. 💪 Opened PR [#238](https://github.com/toxicbishop/DSA-Study-Hub/pull/238) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. ℹ️ Assigned PR [#238](https://github.com/toxicbishop/DSA-Study-Hub/pull/238) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. 🎉 Merged PR [#237](https://github.com/toxicbishop/DSA-Study-Hub/pull/237) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. 💪 Opened PR [#237](https://github.com/toxicbishop/DSA-Study-Hub/pull/237) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. 🎉 Merged PR [#26](https://github.com/toxicbishop/VayuDrishti/pull/26) in [toxicbishop/VayuDrishti](https://github.com/toxicbishop/VayuDrishti)
+2. 💪 Opened PR [#26](https://github.com/toxicbishop/VayuDrishti/pull/26) in [toxicbishop/VayuDrishti](https://github.com/toxicbishop/VayuDrishti)
+3. 🎉 Merged PR [#238](https://github.com/toxicbishop/DSA-Study-Hub/pull/238) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. 💪 Opened PR [#238](https://github.com/toxicbishop/DSA-Study-Hub/pull/238) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. ℹ️ Assigned PR [#238](https://github.com/toxicbishop/DSA-Study-Hub/pull/238) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
