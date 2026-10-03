@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#237](https://github.com/toxicbishop/DSA-Study-Hub/pull/237) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. 💪 Opened PR [#237](https://github.com/toxicbishop/DSA-Study-Hub/pull/237) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. ❌ Closed PR [#55](https://github.com/toxicbishop/Stay-Buddy/pull/55) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-4. ❌ Closed PR [#53](https://github.com/toxicbishop/Stay-Buddy/pull/53) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-5. 🎉 Merged PR [#23](https://github.com/toxicbishop/Location-Tracker/pull/23) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
+1. 🎉 Merged PR [#238](https://github.com/toxicbishop/DSA-Study-Hub/pull/238) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 💪 Opened PR [#238](https://github.com/toxicbishop/DSA-Study-Hub/pull/238) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. ℹ️ Assigned PR [#238](https://github.com/toxicbishop/DSA-Study-Hub/pull/238) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. 🎉 Merged PR [#237](https://github.com/toxicbishop/DSA-Study-Hub/pull/237) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. 💪 Opened PR [#237](https://github.com/toxicbishop/DSA-Study-Hub/pull/237) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
