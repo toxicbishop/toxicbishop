@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/toxicbishop/Stay-Buddy/pull/56) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-2. ❌ Closed PR [#54](https://github.com/toxicbishop/Stay-Buddy/pull/54) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-3. ❌ Closed PR [#52](https://github.com/toxicbishop/Stay-Buddy/pull/52) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-4. ❌ Closed PR [#51](https://github.com/toxicbishop/Stay-Buddy/pull/51) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-5. 💪 Opened PR [#56](https://github.com/toxicbishop/Stay-Buddy/pull/56) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
+1. ❌ Closed PR [#163](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/163) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+2. ❌ Closed PR [#162](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/162) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+3. ❌ Closed PR [#160](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/160) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+4. ❌ Closed PR [#161](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/161) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+5. ❌ Closed PR [#159](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/159) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
