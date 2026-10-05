@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#163](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/163) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-2. ❌ Closed PR [#162](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/162) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-3. ❌ Closed PR [#160](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/160) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-4. ❌ Closed PR [#161](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/161) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-5. ❌ Closed PR [#159](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/159) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+1. ❌ Closed PR [#159](https://github.com/Aryan-Kumar-91/Neotic/pull/159) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+2. ❌ Closed PR [#160](https://github.com/Aryan-Kumar-91/Neotic/pull/160) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+3. ❌ Closed PR [#158](https://github.com/Aryan-Kumar-91/Neotic/pull/158) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+4. ❌ Closed PR [#157](https://github.com/Aryan-Kumar-91/Neotic/pull/157) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+5. ❌ Closed PR [#156](https://github.com/Aryan-Kumar-91/Neotic/pull/156) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
