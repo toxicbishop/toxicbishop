@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/toxicbishop/Stay-Buddy/pull/61) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-2. 💪 Opened PR [#61](https://github.com/toxicbishop/Stay-Buddy/pull/61) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-3. 🎉 Merged PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-4. 💪 Opened PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-5. ❌ Closed PR [#87](https://github.com/abhintr2006/RESQLINK/pull/87) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+1. ❌ Closed PR [#165](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/165) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+2. 🎉 Merged PR [#61](https://github.com/toxicbishop/Stay-Buddy/pull/61) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
+3. 💪 Opened PR [#61](https://github.com/toxicbishop/Stay-Buddy/pull/61) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
+4. 🎉 Merged PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+5. 💪 Opened PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
