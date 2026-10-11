@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-2. 💪 Opened PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-3. ❌ Closed PR [#87](https://github.com/abhintr2006/RESQLINK/pull/87) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-4. 🎉 Merged PR [#283](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/283) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
-5. 💪 Opened PR [#283](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/283) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+1. 🎉 Merged PR [#61](https://github.com/toxicbishop/Stay-Buddy/pull/61) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
+2. 💪 Opened PR [#61](https://github.com/toxicbishop/Stay-Buddy/pull/61) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
+3. 🎉 Merged PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+4. 💪 Opened PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+5. ❌ Closed PR [#87](https://github.com/abhintr2006/RESQLINK/pull/87) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
