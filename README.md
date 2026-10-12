@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#165](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/165) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-2. 🎉 Merged PR [#61](https://github.com/toxicbishop/Stay-Buddy/pull/61) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-3. 💪 Opened PR [#61](https://github.com/toxicbishop/Stay-Buddy/pull/61) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-4. 🎉 Merged PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-5. 💪 Opened PR [#91](https://github.com/toxicbishop/Web-Scraper/pull/91) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+1. 🗣 Commented on [#164](https://github.com/Aryan-Kumar-91/Neotic/pull/164#issuecomment-6122862883) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+2. ❌ Closed PR [#165](https://github.com/Aryan-Kumar-91/Neotic/pull/165) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+3. ❌ Closed PR [#164](https://github.com/Aryan-Kumar-91/Neotic/pull/164) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+4. ❌ Closed PR [#163](https://github.com/Aryan-Kumar-91/Neotic/pull/163) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+5. ❌ Closed PR [#162](https://github.com/Aryan-Kumar-91/Neotic/pull/162) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
