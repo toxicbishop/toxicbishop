@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#243](https://github.com/toxicbishop/DSA-Study-Hub/pull/243) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. 🗣 Commented on [#165](https://github.com/Aryan-Kumar-91/Neotic/pull/165#issuecomment-6122869406) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-3. 🗣 Commented on [#164](https://github.com/Aryan-Kumar-91/Neotic/pull/164#issuecomment-6122862883) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-4. ❌ Closed PR [#165](https://github.com/Aryan-Kumar-91/Neotic/pull/165) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-5. ❌ Closed PR [#164](https://github.com/Aryan-Kumar-91/Neotic/pull/164) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+1. 🗣 Commented on [#251](https://github.com/toxicbishop/DSA-Study-Hub/pull/251#issuecomment-6123724513) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 🗣 Commented on [#250](https://github.com/toxicbishop/DSA-Study-Hub/pull/250#issuecomment-6123724001) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. 🗣 Commented on [#251](https://github.com/toxicbishop/DSA-Study-Hub/pull/251#issuecomment-6123535916) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. ❌ Closed PR [#243](https://github.com/toxicbishop/DSA-Study-Hub/pull/243) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. 🗣 Commented on [#165](https://github.com/Aryan-Kumar-91/Neotic/pull/165#issuecomment-6122869406) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
