@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#100](https://github.com/abhintr2006/RESQLINK/pull/100) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-2. 🗣 Commented on [#100](https://github.com/abhintr2006/RESQLINK/pull/100#issuecomment-6182003063) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
-3. 🗣 Commented on [#251](https://github.com/toxicbishop/DSA-Study-Hub/pull/251#issuecomment-6123819095) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. 🗣 Commented on [#161](https://github.com/Aryan-Kumar-91/Neotic/pull/161#issuecomment-6122853485) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-5. 🗣 Commented on [#249](https://github.com/toxicbishop/DSA-Study-Hub/pull/249#issuecomment-6123530731) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. ❌ Closed PR [#12](https://github.com/toxicbishop/Portfolio-4/pull/12) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+2. ❌ Closed PR [#10](https://github.com/toxicbishop/Portfolio-4/pull/10) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+3. ❌ Closed PR [#6](https://github.com/toxicbishop/Portfolio-4/pull/6) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+4. ❌ Closed PR [#11](https://github.com/toxicbishop/Portfolio-4/pull/11) in [toxicbishop/Portfolio-4](https://github.com/toxicbishop/Portfolio-4)
+5. ❌ Closed PR [#69](https://github.com/mit0506/expense-track/pull/69) in [mit0506/expense-track](https://github.com/mit0506/expense-track)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
