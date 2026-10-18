@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/toxicbishop/WorkNest/pull/7) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
-2. 💪 Opened PR [#7](https://github.com/toxicbishop/WorkNest/pull/7) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
-3. 🎉 Merged PR [#6](https://github.com/toxicbishop/WorkNest/pull/6) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
-4. ℹ️ Assigned PR [#6](https://github.com/toxicbishop/WorkNest/pull/6) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
-5. 💪 Opened PR [#6](https://github.com/toxicbishop/WorkNest/pull/6) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
+1. 🎉 Merged PR [#9](https://github.com/toxicbishop/WorkNest/pull/9) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
+2. ℹ️ Assigned PR [#9](https://github.com/toxicbishop/WorkNest/pull/9) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
+3. 💪 Opened PR [#9](https://github.com/toxicbishop/WorkNest/pull/9) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
+4. 🎉 Merged PR [#8](https://github.com/toxicbishop/WorkNest/pull/8) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
+5. 💪 Opened PR [#8](https://github.com/toxicbishop/WorkNest/pull/8) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
