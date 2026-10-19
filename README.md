@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/toxicbishop/WorkNest/pull/13) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
-2. ℹ️ Assigned PR [#13](https://github.com/toxicbishop/WorkNest/pull/13) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
-3. 💪 Opened PR [#13](https://github.com/toxicbishop/WorkNest/pull/13) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
-4. 🎉 Merged PR [#12](https://github.com/toxicbishop/WorkNest/pull/12) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
-5. 💪 Opened PR [#12](https://github.com/toxicbishop/WorkNest/pull/12) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
+1. ❌ Closed PR [#171](https://github.com/Aryan-Kumar-91/Neotic/pull/171) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+2. ❌ Closed PR [#168](https://github.com/Aryan-Kumar-91/Neotic/pull/168) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+3. ❌ Closed PR [#167](https://github.com/Aryan-Kumar-91/Neotic/pull/167) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+4. ❌ Closed PR [#166](https://github.com/Aryan-Kumar-91/Neotic/pull/166) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+5. ❌ Closed PR [#170](https://github.com/Aryan-Kumar-91/Neotic/pull/170) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
