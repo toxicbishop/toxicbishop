@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/toxicbishop/Web-Scraper/pull/107#issuecomment-6347239451) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-2. 🎉 Merged PR [#106](https://github.com/toxicbishop/Web-Scraper/pull/106) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
-3. ❌ Closed PR [#62](https://github.com/toxicbishop/Stay-Buddy/pull/62) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-4. 🗣 Commented on [#39](https://github.com/toxicbishop/Chain-of-Thought/pull/39#issuecomment-6347939731) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
-5. ❌ Closed PR [#39](https://github.com/toxicbishop/Chain-of-Thought/pull/39) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+1. 🎉 Merged PR [#40](https://github.com/toxicbishop/Chain-of-Thought/pull/40) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
+2. 🗣 Commented on [#107](https://github.com/toxicbishop/Web-Scraper/pull/107#issuecomment-6347239451) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+3. 🎉 Merged PR [#106](https://github.com/toxicbishop/Web-Scraper/pull/106) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+4. ❌ Closed PR [#62](https://github.com/toxicbishop/Stay-Buddy/pull/62) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
+5. 🗣 Commented on [#39](https://github.com/toxicbishop/Chain-of-Thought/pull/39#issuecomment-6347939731) in [toxicbishop/Chain-of-Thought](https://github.com/toxicbishop/Chain-of-Thought)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
