@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#281](https://github.com/toxicbishop/DSA-Study-Hub/pull/281#issuecomment-6496915357) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. 🗣 Commented on [#263](https://github.com/toxicbishop/DSA-Study-Hub/pull/263#issuecomment-6496815231) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. 🗣 Commented on [#268](https://github.com/toxicbishop/DSA-Study-Hub/pull/268#issuecomment-6496662499) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. 🗣 Commented on [#284](https://github.com/toxicbishop/DSA-Study-Hub/pull/284#issuecomment-6496619549) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. 🗣 Commented on [#284](https://github.com/toxicbishop/DSA-Study-Hub/pull/284#issuecomment-6496582227) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. 🗣 Commented on [#277](https://github.com/toxicbishop/DSA-Study-Hub/pull/277#issuecomment-6496816450) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 🗣 Commented on [#257](https://github.com/toxicbishop/DSA-Study-Hub/pull/257#issuecomment-6496811994) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. 🗣 Commented on [#257](https://github.com/toxicbishop/DSA-Study-Hub/pull/257#issuecomment-6496738800) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. 🗣 Commented on [#264](https://github.com/toxicbishop/DSA-Study-Hub/pull/264#issuecomment-6496737311) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. 🗣 Commented on [#263](https://github.com/toxicbishop/DSA-Study-Hub/pull/263#issuecomment-6496664166) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
