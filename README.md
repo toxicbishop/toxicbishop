@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#199](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/199) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-2. ❌ Closed PR [#165](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/165) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-3. 🗣 Commented on [#281](https://github.com/toxicbishop/DSA-Study-Hub/pull/281#issuecomment-6496961050) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. 🗣 Commented on [#281](https://github.com/toxicbishop/DSA-Study-Hub/pull/281#issuecomment-6496733676) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. 🗣 Commented on [#281](https://github.com/toxicbishop/DSA-Study-Hub/pull/281#issuecomment-6496658128) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. ❌ Closed PR [#112](https://github.com/abhintr2006/RESQLINK/pull/112) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+2. ❌ Closed PR [#113](https://github.com/abhintr2006/RESQLINK/pull/113) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+3. ❌ Closed PR [#152](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/152) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+4. ❌ Closed PR [#151](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/151) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
+5. ❌ Closed PR [#149](https://github.com/toxicbishop/IPL-Winner-Prediction/pull/149) in [toxicbishop/IPL-Winner-Prediction](https://github.com/toxicbishop/IPL-Winner-Prediction)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
