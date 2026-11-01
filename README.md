@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#25](https://github.com/toxicbishop/Location-Tracker/pull/25) in [toxicbishop/Location-Tracker](https://github.com/toxicbishop/Location-Tracker)
-2. ❌ Closed PR [#126](https://github.com/toxicbishop/TradeLab/pull/126) in [toxicbishop/TradeLab](https://github.com/toxicbishop/TradeLab)
-3. ❌ Closed PR [#73](https://github.com/toxicbishop/Stay-Buddy/pull/73) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-4. ❌ Closed PR [#71](https://github.com/toxicbishop/Stay-Buddy/pull/71) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
-5. ❌ Closed PR [#72](https://github.com/toxicbishop/Stay-Buddy/pull/72) in [toxicbishop/Stay-Buddy](https://github.com/toxicbishop/Stay-Buddy)
+1. ❌ Closed PR [#86](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/86) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+2. ❌ Closed PR [#85](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/85) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+3. ❌ Closed PR [#84](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/84) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+4. ❌ Closed PR [#83](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/83) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+5. ❌ Closed PR [#82](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/82) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
