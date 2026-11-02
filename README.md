@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#23](https://github.com/toxicbishop/Hand-Gesture-Puzzle/pull/23) in [toxicbishop/Hand-Gesture-Puzzle](https://github.com/toxicbishop/Hand-Gesture-Puzzle)
-2. ❌ Closed PR [#295](https://github.com/toxicbishop/DSA-Study-Hub/pull/295) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. 🎉 Merged PR [#88](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/88) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-4. 💪 Opened PR [#88](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/88) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-5. 🎉 Merged PR [#87](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/87) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+1. 🔒 Closed issue [#16](https://github.com/toxicbishop/WorkNest/issues/16) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
+2. ❌ Closed PR [#302](https://github.com/toxicbishop/DSA-Study-Hub/pull/302) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. ❌ Closed PR [#301](https://github.com/toxicbishop/DSA-Study-Hub/pull/301) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. ❌ Closed PR [#300](https://github.com/toxicbishop/DSA-Study-Hub/pull/300) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. ❌ Closed PR [#299](https://github.com/toxicbishop/DSA-Study-Hub/pull/299) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
