@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/88) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-2. 💪 Opened PR [#88](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/88) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-3. 🎉 Merged PR [#87](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/87) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-4. 💪 Opened PR [#87](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/87) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
-5. ❌ Closed PR [#86](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/86) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+1. ❌ Closed PR [#295](https://github.com/toxicbishop/DSA-Study-Hub/pull/295) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 🎉 Merged PR [#88](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/88) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+3. 💪 Opened PR [#88](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/88) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+4. 🎉 Merged PR [#87](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/87) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
+5. 💪 Opened PR [#87](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML/pull/87) in [toxicbishop/Brain-Tumor-Prediction-ML](https://github.com/toxicbishop/Brain-Tumor-Prediction-ML)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
