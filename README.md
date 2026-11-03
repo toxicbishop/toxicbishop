@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/toxicbishop/WorkNest/issues/16) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
-2. ❌ Closed PR [#302](https://github.com/toxicbishop/DSA-Study-Hub/pull/302) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. ❌ Closed PR [#301](https://github.com/toxicbishop/DSA-Study-Hub/pull/301) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. ❌ Closed PR [#300](https://github.com/toxicbishop/DSA-Study-Hub/pull/300) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. ❌ Closed PR [#299](https://github.com/toxicbishop/DSA-Study-Hub/pull/299) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. 🎉 Merged PR [#2](https://github.com/toxicbishop/nestwise-workspace-operations/pull/2) in [toxicbishop/nestwise-workspace-operations](https://github.com/toxicbishop/nestwise-workspace-operations)
+2. 💪 Opened PR [#2](https://github.com/toxicbishop/nestwise-workspace-operations/pull/2) in [toxicbishop/nestwise-workspace-operations](https://github.com/toxicbishop/nestwise-workspace-operations)
+3. ℹ️ Assigned PR [#2](https://github.com/toxicbishop/nestwise-workspace-operations/pull/2) in [toxicbishop/nestwise-workspace-operations](https://github.com/toxicbishop/nestwise-workspace-operations)
+4. 🔒 Closed issue [#16](https://github.com/toxicbishop/WorkNest/issues/16) in [toxicbishop/WorkNest](https://github.com/toxicbishop/WorkNest)
+5. ❌ Closed PR [#302](https://github.com/toxicbishop/DSA-Study-Hub/pull/302) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
