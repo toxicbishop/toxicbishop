@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/toxicbishop/Student-Marks-Management/pull/30) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-2. ❌ Closed PR [#29](https://github.com/toxicbishop/Student-Marks-Management/pull/29) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-3. ❌ Closed PR [#28](https://github.com/toxicbishop/Student-Marks-Management/pull/28) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
-4. ❌ Closed PR [#57](https://github.com/toxicbishop/Mac-Portfolio/pull/57) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
-5. ❌ Closed PR [#55](https://github.com/toxicbishop/Mac-Portfolio/pull/55) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
+1. 🗣 Commented on [#145](https://github.com/toxicbishop/TradeLab/pull/145#issuecomment-6797167818) in [toxicbishop/TradeLab](https://github.com/toxicbishop/TradeLab)
+2. 🗣 Commented on [#118](https://github.com/toxicbishop/Web-Scraper/pull/118#issuecomment-6799934388) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+3. 🗣 Commented on [#115](https://github.com/toxicbishop/Web-Scraper/pull/115#issuecomment-6799885399) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+4. 🗣 Commented on [#112](https://github.com/toxicbishop/Web-Scraper/pull/112#issuecomment-6799898611) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
+5. 🗣 Commented on [#112](https://github.com/toxicbishop/Web-Scraper/pull/112#issuecomment-6799882370) in [toxicbishop/Web-Scraper](https://github.com/toxicbishop/Web-Scraper)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
