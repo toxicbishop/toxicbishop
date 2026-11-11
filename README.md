@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/toxicbishop/TradeLab/pull/147) in [toxicbishop/TradeLab](https://github.com/toxicbishop/TradeLab)
-2. ℹ️ Assigned PR [#147](https://github.com/toxicbishop/TradeLab/pull/147) in [toxicbishop/TradeLab](https://github.com/toxicbishop/TradeLab)
-3. 💪 Opened PR [#147](https://github.com/toxicbishop/TradeLab/pull/147) in [toxicbishop/TradeLab](https://github.com/toxicbishop/TradeLab)
-4. 🗣 Commented on [#137](https://github.com/toxicbishop/TradeLab/pull/137#issuecomment-6797180890) in [toxicbishop/TradeLab](https://github.com/toxicbishop/TradeLab)
-5. ❌ Closed PR [#145](https://github.com/toxicbishop/TradeLab/pull/145) in [toxicbishop/TradeLab](https://github.com/toxicbishop/TradeLab)
+1. ❌ Closed PR [#30](https://github.com/toxicbishop/Student-Marks-Management/pull/30) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+2. ❌ Closed PR [#29](https://github.com/toxicbishop/Student-Marks-Management/pull/29) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+3. ❌ Closed PR [#28](https://github.com/toxicbishop/Student-Marks-Management/pull/28) in [toxicbishop/Student-Marks-Management](https://github.com/toxicbishop/Student-Marks-Management)
+4. ❌ Closed PR [#57](https://github.com/toxicbishop/Mac-Portfolio/pull/57) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
+5. ❌ Closed PR [#55](https://github.com/toxicbishop/Mac-Portfolio/pull/55) in [toxicbishop/Mac-Portfolio](https://github.com/toxicbishop/Mac-Portfolio)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
