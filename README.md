@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#190](https://github.com/Aryan-Kumar-91/Neotic/pull/190) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-2. ℹ️ Assigned PR [#190](https://github.com/Aryan-Kumar-91/Neotic/pull/190) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-3. 💪 Opened PR [#190](https://github.com/Aryan-Kumar-91/Neotic/pull/190) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-4. 🎉 Merged PR [#189](https://github.com/Aryan-Kumar-91/Neotic/pull/189) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-5. 💪 Opened PR [#189](https://github.com/Aryan-Kumar-91/Neotic/pull/189) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+1. 🎉 Merged PR [#14](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/14) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
+2. 💪 Opened PR [#14](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/14) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
+3. 🎉 Merged PR [#190](https://github.com/Aryan-Kumar-91/Neotic/pull/190) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+4. ℹ️ Assigned PR [#190](https://github.com/Aryan-Kumar-91/Neotic/pull/190) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+5. 💪 Opened PR [#190](https://github.com/Aryan-Kumar-91/Neotic/pull/190) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
