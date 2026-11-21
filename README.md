@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#188](https://github.com/Aryan-Kumar-91/Neotic/pull/188) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-2. ℹ️ Assigned PR [#188](https://github.com/Aryan-Kumar-91/Neotic/pull/188) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-3. 💪 Opened PR [#188](https://github.com/Aryan-Kumar-91/Neotic/pull/188) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-4. 🎉 Merged PR [#187](https://github.com/Aryan-Kumar-91/Neotic/pull/187) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
-5. 💪 Opened PR [#187](https://github.com/Aryan-Kumar-91/Neotic/pull/187) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+1. 🎉 Merged PR [#189](https://github.com/Aryan-Kumar-91/Neotic/pull/189) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+2. 💪 Opened PR [#189](https://github.com/Aryan-Kumar-91/Neotic/pull/189) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+3. 🎉 Merged PR [#188](https://github.com/Aryan-Kumar-91/Neotic/pull/188) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+4. ℹ️ Assigned PR [#188](https://github.com/Aryan-Kumar-91/Neotic/pull/188) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
+5. 💪 Opened PR [#188](https://github.com/Aryan-Kumar-91/Neotic/pull/188) in [Aryan-Kumar-91/Neotic](https://github.com/Aryan-Kumar-91/Neotic)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
