@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/13) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-2. 💪 Opened PR [#13](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/13) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-3. 🎉 Merged PR [#12](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/12) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-4. ❌ Closed PR [#332](https://github.com/toxicbishop/DSA-Study-Hub/pull/332) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. ❌ Closed PR [#331](https://github.com/toxicbishop/DSA-Study-Hub/pull/331) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. ❌ Closed PR [#321](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/321) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+2. 🗣 Commented on [#321](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/321#issuecomment-7063685153) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+3. ❌ Closed PR [#318](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/318) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+4. 🗣 Commented on [#318](https://github.com/toxicbishop/KSSEM-College-ERP-System/pull/318#issuecomment-7063682144) in [toxicbishop/KSSEM-College-ERP-System](https://github.com/toxicbishop/KSSEM-College-ERP-System)
+5. 🎉 Merged PR [#13](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/13) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
