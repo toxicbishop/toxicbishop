@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#38](https://github.com/toxicbishop/VayuDrishti/pull/38) in [toxicbishop/VayuDrishti](https://github.com/toxicbishop/VayuDrishti)
-2. 🗣 Commented on [#342](https://github.com/toxicbishop/DSA-Study-Hub/pull/342#issuecomment-7133651374) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. 🗣 Commented on [#335](https://github.com/toxicbishop/DSA-Study-Hub/pull/335#issuecomment-7133650439) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-4. 🗣 Commented on [#335](https://github.com/toxicbishop/DSA-Study-Hub/pull/335#issuecomment-7133645699) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-5. 🗣 Commented on [#336](https://github.com/toxicbishop/DSA-Study-Hub/pull/336#issuecomment-7133621947) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. ❌ Closed PR [#241](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/241) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+2. ❌ Closed PR [#243](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/243) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
+3. 🗣 Commented on [#38](https://github.com/toxicbishop/VayuDrishti/pull/38#issuecomment-7133919976) in [toxicbishop/VayuDrishti](https://github.com/toxicbishop/VayuDrishti)
+4. ❌ Closed PR [#38](https://github.com/toxicbishop/VayuDrishti/pull/38) in [toxicbishop/VayuDrishti](https://github.com/toxicbishop/VayuDrishti)
+5. 🗣 Commented on [#342](https://github.com/toxicbishop/DSA-Study-Hub/pull/342#issuecomment-7133651374) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
