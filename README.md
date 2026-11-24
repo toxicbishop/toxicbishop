@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#340](https://github.com/toxicbishop/DSA-Study-Hub/pull/340#issuecomment-7133421422) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. 🗣 Commented on [#338](https://github.com/toxicbishop/DSA-Study-Hub/pull/338#issuecomment-7133031349) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-3. 🗣 Commented on [#206](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/206#issuecomment-7134798617) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-4. 🗣 Commented on [#203](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/203#issuecomment-7134793329) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
-5. 🗣 Commented on [#200](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/200#issuecomment-7134788534) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+1. 🗣 Commented on [#342](https://github.com/toxicbishop/DSA-Study-Hub/pull/342#issuecomment-7133470643) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 🗣 Commented on [#340](https://github.com/toxicbishop/DSA-Study-Hub/pull/340#issuecomment-7133421422) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. 🗣 Commented on [#338](https://github.com/toxicbishop/DSA-Study-Hub/pull/338#issuecomment-7133031349) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. 🗣 Commented on [#206](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/206#issuecomment-7134798617) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+5. 🗣 Commented on [#203](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/203#issuecomment-7134793329) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
