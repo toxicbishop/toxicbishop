@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#338](https://github.com/toxicbishop/DSA-Study-Hub/pull/338) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
-2. 🎉 Merged PR [#15](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/15) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-3. ℹ️ Assigned PR [#15](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/15) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-4. 💪 Opened PR [#15](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/15) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-5. 🎉 Merged PR [#14](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/14) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
+1. ❌ Closed PR [#38](https://github.com/toxicbishop/VayuDrishti/pull/38) in [toxicbishop/VayuDrishti](https://github.com/toxicbishop/VayuDrishti)
+2. 🗣 Commented on [#342](https://github.com/toxicbishop/DSA-Study-Hub/pull/342#issuecomment-7133651374) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+3. 🗣 Commented on [#335](https://github.com/toxicbishop/DSA-Study-Hub/pull/335#issuecomment-7133650439) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+4. 🗣 Commented on [#335](https://github.com/toxicbishop/DSA-Study-Hub/pull/335#issuecomment-7133645699) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+5. 🗣 Commented on [#336](https://github.com/toxicbishop/DSA-Study-Hub/pull/336#issuecomment-7133621947) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
