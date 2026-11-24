@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#241](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/241) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-2. ❌ Closed PR [#243](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/243) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-3. 🗣 Commented on [#38](https://github.com/toxicbishop/VayuDrishti/pull/38#issuecomment-7133919976) in [toxicbishop/VayuDrishti](https://github.com/toxicbishop/VayuDrishti)
-4. ❌ Closed PR [#38](https://github.com/toxicbishop/VayuDrishti/pull/38) in [toxicbishop/VayuDrishti](https://github.com/toxicbishop/VayuDrishti)
-5. 🗣 Commented on [#342](https://github.com/toxicbishop/DSA-Study-Hub/pull/342#issuecomment-7133651374) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. 🗣 Commented on [#338](https://github.com/toxicbishop/DSA-Study-Hub/pull/338#issuecomment-7133031349) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 🗣 Commented on [#206](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/206#issuecomment-7134798617) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+3. 🗣 Commented on [#203](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/203#issuecomment-7134793329) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+4. 🗣 Commented on [#200](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/200#issuecomment-7134788534) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
+5. 🗣 Commented on [#205](https://github.com/Mohammed0572/Multimodel-Voting-System/pull/205#issuecomment-7134796655) in [Mohammed0572/Multimodel-Voting-System](https://github.com/Mohammed0572/Multimodel-Voting-System)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
