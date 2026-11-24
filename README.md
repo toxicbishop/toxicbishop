@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/15) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-2. ℹ️ Assigned PR [#15](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/15) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-3. 💪 Opened PR [#15](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/15) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-4. 🎉 Merged PR [#14](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/14) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-5. 💪 Opened PR [#14](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/14) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
+1. ❌ Closed PR [#338](https://github.com/toxicbishop/DSA-Study-Hub/pull/338) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+2. 🎉 Merged PR [#15](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/15) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
+3. ℹ️ Assigned PR [#15](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/15) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
+4. 💪 Opened PR [#15](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/15) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
+5. 🎉 Merged PR [#14](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/14) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
