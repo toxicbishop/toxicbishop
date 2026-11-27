@@ -199,11 +199,11 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/16) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-2. ℹ️ Assigned PR [#16](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/16) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-3. 💪 Opened PR [#16](https://github.com/toxicbishop/CodeClash-LeaderBoard/pull/16) in [toxicbishop/CodeClash-LeaderBoard](https://github.com/toxicbishop/CodeClash-LeaderBoard)
-4. 🗣 Commented on [#243](https://github.com/Mohammed0572/bengaluru-cost-explorer/pull/243#issuecomment-7134355628) in [Mohammed0572/bengaluru-cost-explorer](https://github.com/Mohammed0572/bengaluru-cost-explorer)
-5. 🗣 Commented on [#342](https://github.com/toxicbishop/DSA-Study-Hub/pull/342#issuecomment-7133470643) in [toxicbishop/DSA-Study-Hub](https://github.com/toxicbishop/DSA-Study-Hub)
+1. ℹ️ Assigned PR [#7](https://github.com/toxicbishop/nestwise-workspace-operations/pull/7) in [toxicbishop/nestwise-workspace-operations](https://github.com/toxicbishop/nestwise-workspace-operations)
+2. ❌ Closed PR [#139](https://github.com/abhintr2006/RESQLINK/pull/139) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+3. 🗣 Commented on [#139](https://github.com/abhintr2006/RESQLINK/pull/139#issuecomment-7212530018) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+4. ❌ Closed PR [#138](https://github.com/abhintr2006/RESQLINK/pull/138) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
+5. 🗣 Commented on [#138](https://github.com/abhintr2006/RESQLINK/pull/138#issuecomment-7212529111) in [abhintr2006/RESQLINK](https://github.com/abhintr2006/RESQLINK)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
